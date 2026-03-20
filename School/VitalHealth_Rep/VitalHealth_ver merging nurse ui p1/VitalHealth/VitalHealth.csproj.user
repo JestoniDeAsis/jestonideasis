@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="CustomControls\RoundedButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="CustomControls\RoundedComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="CustomControls\RoundedDataGridView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="CustomControls\RoundedDateTimePicker.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="CustomControls\RoundedPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="CustomControls\RoundedRadioButton.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="CustomControls\RoundedTextbox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Authentication\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Authentication\RegisterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Dialogs\LoginSuccessfully.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Dialogs\RegistrationComplete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\IndexForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Nurse\PatientsCheckUpForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

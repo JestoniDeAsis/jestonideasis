@@ -1,29 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ashfo\\Projects\\School\\VitalHealth_Rep\\VitalHealth_ver BASE\\",
+  "WorkspaceRootPath": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver BASE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|c:\\users\\ashfo\\projects\\school\\vitalhealth_rep\\vitalhealth_ver base\\vitalhealth\\forms\\authentication\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|solutionrelative:vitalhealth\\forms\\authentication\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|c:\\users\\ashfo\\projects\\school\\vitalhealth_rep\\vitalhealth_ver base\\vitalhealth\\forms\\authentication\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|f:\\github repository\\jestonideasis\\school\\vitalhealth_rep\\vitalhealth_ver base\\vitalhealth\\forms\\authentication\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|solutionrelative:vitalhealth\\forms\\authentication\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|c:\\users\\ashfo\\projects\\school\\vitalhealth_rep\\vitalhealth_ver base\\vitalhealth\\forms\\dialogs\\loginsuccessfully.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|solutionrelative:vitalhealth\\forms\\dialogs\\loginsuccessfully.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver BASE\\vitalhealth\\forms\\authentication\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|solutionrelative:vitalhealth\\forms\\authentication\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|C:\\Users\\ashfo\\Projects\\School\\VitalHealth_Rep\\VitalHealth_ver BASE\\vitalhealth\\forms\\indexform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|f:\\github repository\\jestonideasis\\school\\vitalhealth_rep\\vitalhealth_ver base\\vitalhealth\\forms\\authentication\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|solutionrelative:vitalhealth\\forms\\authentication\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver BASE\\vitalhealth\\forms\\indexform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|solutionrelative:vitalhealth\\forms\\indexform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|c:\\users\\ashfo\\projects\\school\\vitalhealth_rep\\vitalhealth_ver base\\vitalhealth\\forms\\indexform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|f:\\github repository\\jestonideasis\\school\\vitalhealth_rep\\vitalhealth_ver base\\vitalhealth\\forms\\dialogs\\registrationcomplete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|solutionrelative:vitalhealth\\forms\\dialogs\\registrationcomplete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver BASE\\vitalhealth\\forms\\dialogs\\registrationcomplete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|solutionrelative:vitalhealth\\forms\\dialogs\\registrationcomplete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver BASE\\vitalhealth\\forms\\authentication\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|solutionrelative:vitalhealth\\forms\\authentication\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|f:\\github repository\\jestonideasis\\school\\vitalhealth_rep\\vitalhealth_ver base\\vitalhealth\\forms\\indexform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|solutionrelative:vitalhealth\\forms\\indexform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|c:\\users\\ashfo\\projects\\school\\vitalhealth_rep\\vitalhealth_ver base\\vitalhealth\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|f:\\github repository\\jestonideasis\\school\\vitalhealth_rep\\vitalhealth_ver base\\vitalhealth\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|solutionrelative:vitalhealth\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,28 +46,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "MainForm.cs",
-              "DocumentMoniker": "C:\\Users\\ashfo\\Projects\\School\\VitalHealth_Rep\\VitalHealth_ver BASE\\VitalHealth\\Forms\\MainForm.cs",
+              "DocumentMoniker": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver BASE\\VitalHealth\\Forms\\MainForm.cs",
               "RelativeDocumentMoniker": "VitalHealth\\Forms\\MainForm.cs",
-              "ToolTip": "C:\\Users\\ashfo\\Projects\\School\\VitalHealth_Rep\\VitalHealth_ver BASE\\VitalHealth\\Forms\\MainForm.cs",
+              "ToolTip": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver BASE\\VitalHealth\\Forms\\MainForm.cs",
               "RelativeToolTip": "VitalHealth\\Forms\\MainForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowAcAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-14T08:55:50.114Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "IndexForm.cs",
-              "DocumentMoniker": "C:\\Users\\ashfo\\Projects\\School\\VitalHealth_Rep\\VitalHealth_ver BASE\\VitalHealth\\Forms\\IndexForm.cs",
+              "DocumentMoniker": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver BASE\\VitalHealth\\Forms\\IndexForm.cs",
               "RelativeDocumentMoniker": "VitalHealth\\Forms\\IndexForm.cs",
-              "ToolTip": "C:\\Users\\ashfo\\Projects\\School\\VitalHealth_Rep\\VitalHealth_ver BASE\\VitalHealth\\Forms\\IndexForm.cs",
+              "ToolTip": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver BASE\\VitalHealth\\Forms\\IndexForm.cs",
               "RelativeToolTip": "VitalHealth\\Forms\\IndexForm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -67,22 +79,23 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "IndexForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ashfo\\Projects\\School\\VitalHealth_Rep\\VitalHealth_ver BASE\\VitalHealth\\Forms\\IndexForm.cs",
+              "DocumentMoniker": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver BASE\\VitalHealth\\Forms\\IndexForm.cs",
               "RelativeDocumentMoniker": "VitalHealth\\Forms\\IndexForm.cs",
-              "ToolTip": "D:\\School\\2nd_Year\\IPAT\\VitalHealth\\VitalHealth\\Forms\\IndexForm.cs [Design]",
+              "ToolTip": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver BASE\\VitalHealth\\Forms\\IndexForm.cs [Design]",
+              "RelativeToolTip": "VitalHealth\\Forms\\IndexForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-15T01:40:09.863Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "LoginForm.cs",
-              "DocumentMoniker": "C:\\Users\\ashfo\\Projects\\School\\VitalHealth_Rep\\VitalHealth_ver BASE\\VitalHealth\\Forms\\Authentication\\LoginForm.cs",
+              "DocumentMoniker": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver BASE\\VitalHealth\\Forms\\Authentication\\LoginForm.cs",
               "RelativeDocumentMoniker": "VitalHealth\\Forms\\Authentication\\LoginForm.cs",
-              "ToolTip": "C:\\Users\\ashfo\\Projects\\School\\VitalHealth_Rep\\VitalHealth_ver BASE\\VitalHealth\\Forms\\Authentication\\LoginForm.cs",
+              "ToolTip": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver BASE\\VitalHealth\\Forms\\Authentication\\LoginForm.cs",
               "RelativeToolTip": "VitalHealth\\Forms\\Authentication\\LoginForm.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAA5wC8AAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAwwDIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-15T03:41:04.41Z",
               "IsPinned": true,
@@ -90,28 +103,65 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "LoginForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ashfo\\Projects\\School\\VitalHealth_Rep\\VitalHealth_ver BASE\\VitalHealth\\Forms\\Authentication\\LoginForm.cs",
+              "DocumentMoniker": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver BASE\\VitalHealth\\Forms\\Authentication\\LoginForm.cs",
               "RelativeDocumentMoniker": "VitalHealth\\Forms\\Authentication\\LoginForm.cs",
-              "ToolTip": "C:\\Users\\ashfo\\Projects\\School\\VitalHealth_Rep\\VitalHealth_ver BASE\\VitalHealth\\Forms\\Authentication\\LoginForm.cs [Design]",
+              "ToolTip": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver BASE\\VitalHealth\\Forms\\Authentication\\LoginForm.cs [Design]",
               "RelativeToolTip": "VitalHealth\\Forms\\Authentication\\LoginForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-15T02:37:35.81Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "LoginSuccessfully.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ashfo\\Projects\\School\\VitalHealth_Rep\\VitalHealth_ver BASE\\VitalHealth\\Forms\\Dialogs\\LoginSuccessfully.cs",
-              "RelativeDocumentMoniker": "VitalHealth\\Forms\\Dialogs\\LoginSuccessfully.cs",
-              "ToolTip": "C:\\Users\\ashfo\\Projects\\School\\VitalHealth_Rep\\VitalHealth_ver BASE\\VitalHealth\\Forms\\Dialogs\\LoginSuccessfully.cs [Design]",
-              "RelativeToolTip": "VitalHealth\\Forms\\Dialogs\\LoginSuccessfully.cs [Design]",
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver BASE\\VitalHealth\\Forms\\Authentication\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "VitalHealth\\Forms\\Authentication\\RegisterForm.cs",
+              "ToolTip": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver BASE\\VitalHealth\\Forms\\Authentication\\RegisterForm.cs",
+              "RelativeToolTip": "VitalHealth\\Forms\\Authentication\\RegisterForm.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAASwEAAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T07:25:22.766Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-03-15T08:01:01.004Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterForm.cs [Design]",
+              "DocumentMoniker": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver BASE\\VitalHealth\\Forms\\Authentication\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "VitalHealth\\Forms\\Authentication\\RegisterForm.cs",
+              "ToolTip": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver BASE\\VitalHealth\\Forms\\Authentication\\RegisterForm.cs [Design]",
+              "RelativeToolTip": "VitalHealth\\Forms\\Authentication\\RegisterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T07:52:50.713Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegistrationComplete.cs",
+              "DocumentMoniker": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver BASE\\VitalHealth\\Forms\\Dialogs\\RegistrationComplete.cs",
+              "RelativeDocumentMoniker": "VitalHealth\\Forms\\Dialogs\\RegistrationComplete.cs",
+              "ToolTip": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver BASE\\VitalHealth\\Forms\\Dialogs\\RegistrationComplete.cs",
+              "RelativeToolTip": "VitalHealth\\Forms\\Dialogs\\RegistrationComplete.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T11:21:44.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegistrationComplete.cs [Design]",
+              "DocumentMoniker": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver BASE\\VitalHealth\\Forms\\Dialogs\\RegistrationComplete.cs",
+              "RelativeDocumentMoniker": "VitalHealth\\Forms\\Dialogs\\RegistrationComplete.cs",
+              "ToolTip": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver BASE\\VitalHealth\\Forms\\Dialogs\\RegistrationComplete.cs [Design]",
+              "RelativeToolTip": "VitalHealth\\Forms\\Dialogs\\RegistrationComplete.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T11:15:22.567Z"
             }
           ]
         }
