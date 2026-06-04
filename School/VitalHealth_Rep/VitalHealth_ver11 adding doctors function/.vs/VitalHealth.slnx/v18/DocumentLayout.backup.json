@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver11 adding doctors function\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|f:\\github repository\\jestonideasis\\school\\vitalhealth_rep\\vitalhealth_ver11 adding doctors function\\vitalhealth\\forms\\doctor\\doctorviewpastrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|solutionrelative:vitalhealth\\forms\\doctor\\doctorviewpastrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|f:\\github repository\\jestonideasis\\school\\vitalhealth_rep\\vitalhealth_ver11 adding doctors function\\vitalhealth\\forms\\doctor\\doctorviewpastrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|solutionrelative:vitalhealth\\forms\\doctor\\doctorviewpastrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver11 adding doctors function\\vitalhealth\\forms\\doctor\\doctorassignedpatients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|solutionrelative:vitalhealth\\forms\\doctor\\doctorassignedpatients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|f:\\github repository\\jestonideasis\\school\\vitalhealth_rep\\vitalhealth_ver11 adding doctors function\\vitalhealth\\forms\\doctor\\doctorassignedpatients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|solutionrelative:vitalhealth\\forms\\doctor\\doctorassignedpatients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|f:\\github repository\\jestonideasis\\school\\vitalhealth_rep\\vitalhealth_ver11 adding doctors function\\vitalhealth\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|solutionrelative:vitalhealth\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|f:\\github repository\\jestonideasis\\school\\vitalhealth_rep\\vitalhealth_ver11 adding doctors function\\vitalhealth\\forms\\authentication\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|solutionrelative:vitalhealth\\forms\\authentication\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver11 adding doctors function\\vitalhealth\\forms\\authentication\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|solutionrelative:vitalhealth\\forms\\authentication\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver11 adding doctors function\\vitalhealth\\forms\\authentication\\resetpasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|solutionrelative:vitalhealth\\forms\\authentication\\resetpasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver11 adding doctors function\\vitalhealth\\forms\\nurse\\patientscheckupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|solutionrelative:vitalhealth\\forms\\nurse\\patientscheckupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|f:\\github repository\\jestonideasis\\school\\vitalhealth_rep\\vitalhealth_ver11 adding doctors function\\vitalhealth\\forms\\authentication\\resetpasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|solutionrelative:vitalhealth\\forms\\authentication\\resetpasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|f:\\github repository\\jestonideasis\\school\\vitalhealth_rep\\vitalhealth_ver11 adding doctors function\\vitalhealth\\forms\\authentication\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|solutionrelative:vitalhealth\\forms\\authentication\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver11 adding doctors function\\vitalhealth\\forms\\authentication\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|solutionrelative:vitalhealth\\forms\\authentication\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|f:\\github repository\\jestonideasis\\school\\vitalhealth_rep\\vitalhealth_ver11 adding doctors function\\vitalhealth\\forms\\nurse\\patientscheckupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|solutionrelative:vitalhealth\\forms\\nurse\\patientscheckupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|f:\\github repository\\jestonideasis\\school\\vitalhealth_rep\\vitalhealth_ver11 adding doctors function\\vitalhealth\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|solutionrelative:vitalhealth\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|f:\\github repository\\jestonideasis\\school\\vitalhealth_rep\\vitalhealth_ver11 adding doctors function\\vitalhealth\\forms\\indexform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|solutionrelative:vitalhealth\\forms\\indexform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver11 adding doctors function\\vitalhealth\\forms\\indexform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|solutionrelative:vitalhealth\\forms\\indexform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|f:\\github repository\\jestonideasis\\school\\vitalhealth_rep\\vitalhealth_ver11 adding doctors function\\vitalhealth\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|solutionrelative:vitalhealth\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|f:\\github repository\\jestonideasis\\school\\vitalhealth_rep\\vitalhealth_ver11 adding doctors function\\vitalhealth\\data\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|solutionrelative:vitalhealth\\data\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver11 adding doctors function\\VitalHealth\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "VitalHealth\\Forms\\MainForm.cs",
+              "ToolTip": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver11 adding doctors function\\VitalHealth\\Forms\\MainForm.cs",
+              "RelativeToolTip": "VitalHealth\\Forms\\MainForm.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T08:55:50.114Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IndexForm.cs",
+              "DocumentMoniker": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver11 adding doctors function\\VitalHealth\\Forms\\IndexForm.cs",
+              "RelativeDocumentMoniker": "VitalHealth\\Forms\\IndexForm.cs",
+              "ToolTip": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver11 adding doctors function\\VitalHealth\\Forms\\IndexForm.cs",
+              "RelativeToolTip": "VitalHealth\\Forms\\IndexForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T03:06:24.716Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IndexForm.cs [Design]",
+              "DocumentMoniker": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver11 adding doctors function\\VitalHealth\\Forms\\IndexForm.cs",
+              "RelativeDocumentMoniker": "VitalHealth\\Forms\\IndexForm.cs",
+              "ToolTip": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver10 merging admin p1\\VitalHealth\\Forms\\IndexForm.cs [Design]",
+              "RelativeToolTip": "..\\VitalHealth_ver10 merging admin p1\\VitalHealth\\Forms\\IndexForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T01:40:09.863Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver11 adding doctors function\\VitalHealth\\Forms\\Authentication\\LoginForm.cs",
+              "RelativeDocumentMoniker": "VitalHealth\\Forms\\Authentication\\LoginForm.cs",
+              "ToolTip": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver11 adding doctors function\\VitalHealth\\Forms\\Authentication\\LoginForm.cs",
+              "RelativeToolTip": "VitalHealth\\Forms\\Authentication\\LoginForm.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAiwJEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T03:41:04.41Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver11 adding doctors function\\VitalHealth\\Forms\\Authentication\\LoginForm.cs",
+              "RelativeDocumentMoniker": "VitalHealth\\Forms\\Authentication\\LoginForm.cs",
+              "ToolTip": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver11 adding doctors function\\VitalHealth\\Forms\\Authentication\\LoginForm.cs [Design]",
+              "RelativeToolTip": "VitalHealth\\Forms\\Authentication\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T02:37:35.81Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver11 adding doctors function\\VitalHealth\\Forms\\Authentication\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "VitalHealth\\Forms\\Authentication\\RegisterForm.cs",
+              "ToolTip": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver11 adding doctors function\\VitalHealth\\Forms\\Authentication\\RegisterForm.cs",
+              "RelativeToolTip": "VitalHealth\\Forms\\Authentication\\RegisterForm.cs",
+              "ViewState": "AgIAAOAAAAAAAAAAAAAAAPIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T08:01:01.004Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterForm.cs [Design]",
+              "DocumentMoniker": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver11 adding doctors function\\VitalHealth\\Forms\\Authentication\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "VitalHealth\\Forms\\Authentication\\RegisterForm.cs",
+              "ToolTip": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver11 adding doctors function\\VitalHealth\\Forms\\Authentication\\RegisterForm.cs [Design]",
+              "RelativeToolTip": "VitalHealth\\Forms\\Authentication\\RegisterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T07:52:50.713Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver11 adding doctors function\\VitalHealth\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "VitalHealth\\Properties\\Resources.resx",
+              "ToolTip": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver11 adding doctors function\\VitalHealth\\Properties\\Resources.resx",
+              "RelativeToolTip": "VitalHealth\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-03-19T01:45:37.969Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver11 adding doctors function\\VitalHealth\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "VitalHealth\\Properties\\Resources.Designer.cs",
+              "ToolTip": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver11 adding doctors function\\VitalHealth\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "VitalHealth\\Properties\\Resources.Designer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwBgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T01:44:57.951Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DBConnection.cs",
+              "DocumentMoniker": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver11 adding doctors function\\VitalHealth\\Data\\DBConnection.cs",
+              "RelativeDocumentMoniker": "VitalHealth\\Data\\DBConnection.cs",
+              "ToolTip": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver11 adding doctors function\\VitalHealth\\Data\\DBConnection.cs",
+              "RelativeToolTip": "VitalHealth\\Data\\DBConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T05:36:30.039Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PatientsCheckUpForm.cs",
+              "DocumentMoniker": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver11 adding doctors function\\VitalHealth\\Forms\\Nurse\\PatientsCheckUpForm.cs",
+              "RelativeDocumentMoniker": "VitalHealth\\Forms\\Nurse\\PatientsCheckUpForm.cs",
+              "ToolTip": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver11 adding doctors function\\VitalHealth\\Forms\\Nurse\\PatientsCheckUpForm.cs",
+              "RelativeToolTip": "VitalHealth\\Forms\\Nurse\\PatientsCheckUpForm.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAkwBoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T04:43:01.748Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PatientsCheckUpForm.cs [Design]",
+              "DocumentMoniker": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver11 adding doctors function\\VitalHealth\\Forms\\Nurse\\PatientsCheckUpForm.cs",
+              "RelativeDocumentMoniker": "VitalHealth\\Forms\\Nurse\\PatientsCheckUpForm.cs",
+              "ToolTip": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver11 adding doctors function\\VitalHealth\\Forms\\Nurse\\PatientsCheckUpForm.cs [Design]",
+              "RelativeToolTip": "VitalHealth\\Forms\\Nurse\\PatientsCheckUpForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T04:38:55.374Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ResetPasswordForm.cs",
+              "DocumentMoniker": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver11 adding doctors function\\VitalHealth\\Forms\\Authentication\\ResetPasswordForm.cs",
+              "RelativeDocumentMoniker": "VitalHealth\\Forms\\Authentication\\ResetPasswordForm.cs",
+              "ToolTip": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver11 adding doctors function\\VitalHealth\\Forms\\Authentication\\ResetPasswordForm.cs",
+              "RelativeToolTip": "VitalHealth\\Forms\\Authentication\\ResetPasswordForm.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAAUwMgAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T04:32:13.535Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ResetPasswordForm.cs [Design]",
+              "DocumentMoniker": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver11 adding doctors function\\VitalHealth\\Forms\\Authentication\\ResetPasswordForm.cs",
+              "RelativeDocumentMoniker": "VitalHealth\\Forms\\Authentication\\ResetPasswordForm.cs",
+              "ToolTip": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver11 adding doctors function\\VitalHealth\\Forms\\Authentication\\ResetPasswordForm.cs [Design]",
+              "RelativeToolTip": "VitalHealth\\Forms\\Authentication\\ResetPasswordForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T04:32:05.855Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DoctorAssignedPatients.cs",
+              "DocumentMoniker": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver11 adding doctors function\\VitalHealth\\Forms\\Doctor\\DoctorAssignedPatients.cs",
+              "RelativeDocumentMoniker": "VitalHealth\\Forms\\Doctor\\DoctorAssignedPatients.cs",
+              "ToolTip": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver11 adding doctors function\\VitalHealth\\Forms\\Doctor\\DoctorAssignedPatients.cs",
+              "RelativeToolTip": "VitalHealth\\Forms\\Doctor\\DoctorAssignedPatients.cs",
+              "ViewState": "AgIAANgBAAAAAAAAAAAQwO4BAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T01:25:27.397Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DoctorAssignedPatients.cs [Design]",
+              "DocumentMoniker": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver11 adding doctors function\\VitalHealth\\Forms\\Doctor\\DoctorAssignedPatients.cs",
+              "RelativeDocumentMoniker": "VitalHealth\\Forms\\Doctor\\DoctorAssignedPatients.cs",
+              "ToolTip": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver11 adding doctors function\\VitalHealth\\Forms\\Doctor\\DoctorAssignedPatients.cs [Design]",
+              "RelativeToolTip": "VitalHealth\\Forms\\Doctor\\DoctorAssignedPatients.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T01:26:40.994Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoctorViewPastRecords.cs",
+              "DocumentMoniker": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver11 adding doctors function\\VitalHealth\\Forms\\Doctor\\DoctorViewPastRecords.cs",
+              "RelativeDocumentMoniker": "VitalHealth\\Forms\\Doctor\\DoctorViewPastRecords.cs",
+              "ToolTip": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver11 adding doctors function\\VitalHealth\\Forms\\Doctor\\DoctorViewPastRecords.cs",
+              "RelativeToolTip": "VitalHealth\\Forms\\Doctor\\DoctorViewPastRecords.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwD8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T01:51:48.038Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoctorViewPastRecords.cs [Design]",
+              "DocumentMoniker": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver11 adding doctors function\\VitalHealth\\Forms\\Doctor\\DoctorViewPastRecords.cs",
+              "RelativeDocumentMoniker": "VitalHealth\\Forms\\Doctor\\DoctorViewPastRecords.cs",
+              "ToolTip": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver11 adding doctors function\\VitalHealth\\Forms\\Doctor\\DoctorViewPastRecords.cs [Design]",
+              "RelativeToolTip": "VitalHealth\\Forms\\Doctor\\DoctorViewPastRecords.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T01:51:44.648Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,515 @@
+D:\School\2nd_Year\IPAT\VitalHealth\VitalHealth\bin\Debug\net10.0-windows\VitalHealth.exe
+D:\School\2nd_Year\IPAT\VitalHealth\VitalHealth\bin\Debug\net10.0-windows\VitalHealth.deps.json
+D:\School\2nd_Year\IPAT\VitalHealth\VitalHealth\bin\Debug\net10.0-windows\VitalHealth.runtimeconfig.json
+D:\School\2nd_Year\IPAT\VitalHealth\VitalHealth\bin\Debug\net10.0-windows\VitalHealth.dll
+D:\School\2nd_Year\IPAT\VitalHealth\VitalHealth\bin\Debug\net10.0-windows\VitalHealth.pdb
+D:\School\2nd_Year\IPAT\VitalHealth\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.MainForm.resources
+D:\School\2nd_Year\IPAT\VitalHealth\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.csproj.GenerateResource.cache
+D:\School\2nd_Year\IPAT\VitalHealth\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\2nd_Year\IPAT\VitalHealth\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.AssemblyInfoInputs.cache
+D:\School\2nd_Year\IPAT\VitalHealth\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.AssemblyInfo.cs
+D:\School\2nd_Year\IPAT\VitalHealth\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.csproj.CoreCompileInputs.cache
+D:\School\2nd_Year\IPAT\VitalHealth\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.dll
+D:\School\2nd_Year\IPAT\VitalHealth\VitalHealth\obj\Debug\net10.0-windows\refint\VitalHealth.dll
+D:\School\2nd_Year\IPAT\VitalHealth\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.pdb
+D:\School\2nd_Year\IPAT\VitalHealth\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.genruntimeconfig.cache
+D:\School\2nd_Year\IPAT\VitalHealth\VitalHealth\obj\Debug\net10.0-windows\ref\VitalHealth.dll
+D:\School\2nd_Year\IPAT\VitalHealth\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.IndexForm.resources
+D:\School\2nd_Year\IPAT\VitalHealth\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Properties.Resources.resources
+D:\School\2nd_Year\IPAT\VitalHealth\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Authentication.LoginForm.resources
+D:\School\2nd_Year\IPAT\VitalHealth\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.RoundedTextBox.resources
+C:\Users\ashfo\Projects\School\VitalHealth_Rep\VitalHealth_ver BASE\VitalHealth\bin\Debug\net10.0-windows\VitalHealth.exe
+C:\Users\ashfo\Projects\School\VitalHealth_Rep\VitalHealth_ver BASE\VitalHealth\bin\Debug\net10.0-windows\VitalHealth.deps.json
+C:\Users\ashfo\Projects\School\VitalHealth_Rep\VitalHealth_ver BASE\VitalHealth\bin\Debug\net10.0-windows\VitalHealth.runtimeconfig.json
+C:\Users\ashfo\Projects\School\VitalHealth_Rep\VitalHealth_ver BASE\VitalHealth\bin\Debug\net10.0-windows\VitalHealth.dll
+C:\Users\ashfo\Projects\School\VitalHealth_Rep\VitalHealth_ver BASE\VitalHealth\bin\Debug\net10.0-windows\VitalHealth.pdb
+C:\Users\ashfo\Projects\School\VitalHealth_Rep\VitalHealth_ver BASE\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.RoundedTextBox.resources
+C:\Users\ashfo\Projects\School\VitalHealth_Rep\VitalHealth_ver BASE\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Authentication.LoginForm.resources
+C:\Users\ashfo\Projects\School\VitalHealth_Rep\VitalHealth_ver BASE\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.IndexForm.resources
+C:\Users\ashfo\Projects\School\VitalHealth_Rep\VitalHealth_ver BASE\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.MainForm.resources
+C:\Users\ashfo\Projects\School\VitalHealth_Rep\VitalHealth_ver BASE\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Properties.Resources.resources
+C:\Users\ashfo\Projects\School\VitalHealth_Rep\VitalHealth_ver BASE\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.csproj.GenerateResource.cache
+C:\Users\ashfo\Projects\School\VitalHealth_Rep\VitalHealth_ver BASE\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashfo\Projects\School\VitalHealth_Rep\VitalHealth_ver BASE\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.AssemblyInfoInputs.cache
+C:\Users\ashfo\Projects\School\VitalHealth_Rep\VitalHealth_ver BASE\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.AssemblyInfo.cs
+C:\Users\ashfo\Projects\School\VitalHealth_Rep\VitalHealth_ver BASE\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.csproj.CoreCompileInputs.cache
+C:\Users\ashfo\Projects\School\VitalHealth_Rep\VitalHealth_ver BASE\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.dll
+C:\Users\ashfo\Projects\School\VitalHealth_Rep\VitalHealth_ver BASE\VitalHealth\obj\Debug\net10.0-windows\refint\VitalHealth.dll
+C:\Users\ashfo\Projects\School\VitalHealth_Rep\VitalHealth_ver BASE\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.pdb
+C:\Users\ashfo\Projects\School\VitalHealth_Rep\VitalHealth_ver BASE\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.genruntimeconfig.cache
+C:\Users\ashfo\Projects\School\VitalHealth_Rep\VitalHealth_ver BASE\VitalHealth\obj\Debug\net10.0-windows\ref\VitalHealth.dll
+C:\Users\ashfo\Projects\School\VitalHealth_Rep\VitalHealth_ver BASE\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Dialogs.LoginSuccessfully.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver BASE\VitalHealth\bin\Debug\net10.0-windows\VitalHealth.exe
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver BASE\VitalHealth\bin\Debug\net10.0-windows\VitalHealth.deps.json
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver BASE\VitalHealth\bin\Debug\net10.0-windows\VitalHealth.runtimeconfig.json
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver BASE\VitalHealth\bin\Debug\net10.0-windows\VitalHealth.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver BASE\VitalHealth\bin\Debug\net10.0-windows\VitalHealth.pdb
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver BASE\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.RoundedTextBox.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver BASE\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Authentication.LoginForm.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver BASE\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Dialogs.LoginSuccessfully.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver BASE\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.IndexForm.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver BASE\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.MainForm.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver BASE\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Properties.Resources.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver BASE\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.csproj.GenerateResource.cache
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver BASE\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.GeneratedMSBuildEditorConfig.editorconfig
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver BASE\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.AssemblyInfoInputs.cache
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver BASE\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.AssemblyInfo.cs
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver BASE\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.csproj.CoreCompileInputs.cache
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver BASE\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.sourcelink.json
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver BASE\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver BASE\VitalHealth\obj\Debug\net10.0-windows\refint\VitalHealth.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver BASE\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.pdb
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver BASE\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.genruntimeconfig.cache
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver BASE\VitalHealth\obj\Debug\net10.0-windows\ref\VitalHealth.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver BASE\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Authentication.RegisterForm.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver BASE\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.RoundedComboBox.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver BASE\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Dialogs.RegistrationComplete.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver merging nurse ui p1\VitalHealth\bin\Debug\net10.0-windows\VitalHealth.exe
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver merging nurse ui p1\VitalHealth\bin\Debug\net10.0-windows\VitalHealth.deps.json
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver merging nurse ui p1\VitalHealth\bin\Debug\net10.0-windows\VitalHealth.runtimeconfig.json
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver merging nurse ui p1\VitalHealth\bin\Debug\net10.0-windows\VitalHealth.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver merging nurse ui p1\VitalHealth\bin\Debug\net10.0-windows\VitalHealth.pdb
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver merging nurse ui p1\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.RoundedComboBox.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver merging nurse ui p1\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.RoundedTextBox.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver merging nurse ui p1\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Authentication.LoginForm.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver merging nurse ui p1\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Authentication.RegisterForm.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver merging nurse ui p1\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.IndexForm.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver merging nurse ui p1\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.MainForm.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver merging nurse ui p1\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Properties.Resources.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver merging nurse ui p1\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.csproj.GenerateResource.cache
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver merging nurse ui p1\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.GeneratedMSBuildEditorConfig.editorconfig
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver merging nurse ui p1\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.AssemblyInfoInputs.cache
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver merging nurse ui p1\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.AssemblyInfo.cs
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver merging nurse ui p1\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.csproj.CoreCompileInputs.cache
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver merging nurse ui p1\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.sourcelink.json
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver merging nurse ui p1\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver merging nurse ui p1\VitalHealth\obj\Debug\net10.0-windows\refint\VitalHealth.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver merging nurse ui p1\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.pdb
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver merging nurse ui p1\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.genruntimeconfig.cache
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver merging nurse ui p1\VitalHealth\obj\Debug\net10.0-windows\ref\VitalHealth.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver merging nurse ui p1\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.CustomControls.RoundedDataGridView.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver merging nurse ui p1\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Nurse.PatientsCheckUpForm.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver merging nurse ui p1\VitalHealth\bin\Debug\net10.0-windows\BouncyCastle.Cryptography.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver merging nurse ui p1\VitalHealth\bin\Debug\net10.0-windows\Google.Protobuf.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver merging nurse ui p1\VitalHealth\bin\Debug\net10.0-windows\K4os.Compression.LZ4.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver merging nurse ui p1\VitalHealth\bin\Debug\net10.0-windows\K4os.Compression.LZ4.Streams.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver merging nurse ui p1\VitalHealth\bin\Debug\net10.0-windows\K4os.Hash.xxHash.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver merging nurse ui p1\VitalHealth\bin\Debug\net10.0-windows\MySql.Data.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver merging nurse ui p1\VitalHealth\bin\Debug\net10.0-windows\ZstdSharp.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver merging nurse ui p1\VitalHealth\bin\Debug\net10.0-windows\runtimes\win-x64\native\comerr64.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver merging nurse ui p1\VitalHealth\bin\Debug\net10.0-windows\runtimes\win-x64\native\gssapi64.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver merging nurse ui p1\VitalHealth\bin\Debug\net10.0-windows\runtimes\win-x64\native\k5sprt64.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver merging nurse ui p1\VitalHealth\bin\Debug\net10.0-windows\runtimes\win-x64\native\krb5_64.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver merging nurse ui p1\VitalHealth\bin\Debug\net10.0-windows\runtimes\win-x64\native\krbcc64.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver merging nurse ui p1\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.csproj.AssemblyReference.cache
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver merging nurse ui p1\VitalHealth\obj\Debug\net10.0-windows\VitalHea.3623D81A.Up2Date
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver merging nurse ui p1\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Dialogs.LoginDialog.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver merging nurse ui p1\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Dialogs.RegistrationCompleteDialog.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver with Database (login)\VitalHealth\bin\Debug\net10.0-windows\VitalHealth.exe
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver with Database (login)\VitalHealth\bin\Debug\net10.0-windows\VitalHealth.deps.json
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver with Database (login)\VitalHealth\bin\Debug\net10.0-windows\VitalHealth.runtimeconfig.json
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver with Database (login)\VitalHealth\bin\Debug\net10.0-windows\VitalHealth.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver with Database (login)\VitalHealth\bin\Debug\net10.0-windows\VitalHealth.pdb
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver with Database (login)\VitalHealth\bin\Debug\net10.0-windows\BouncyCastle.Cryptography.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver with Database (login)\VitalHealth\bin\Debug\net10.0-windows\Google.Protobuf.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver with Database (login)\VitalHealth\bin\Debug\net10.0-windows\K4os.Compression.LZ4.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver with Database (login)\VitalHealth\bin\Debug\net10.0-windows\K4os.Compression.LZ4.Streams.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver with Database (login)\VitalHealth\bin\Debug\net10.0-windows\K4os.Hash.xxHash.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver with Database (login)\VitalHealth\bin\Debug\net10.0-windows\MySql.Data.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver with Database (login)\VitalHealth\bin\Debug\net10.0-windows\ZstdSharp.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver with Database (login)\VitalHealth\bin\Debug\net10.0-windows\runtimes\win-x64\native\comerr64.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver with Database (login)\VitalHealth\bin\Debug\net10.0-windows\runtimes\win-x64\native\gssapi64.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver with Database (login)\VitalHealth\bin\Debug\net10.0-windows\runtimes\win-x64\native\k5sprt64.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver with Database (login)\VitalHealth\bin\Debug\net10.0-windows\runtimes\win-x64\native\krb5_64.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver with Database (login)\VitalHealth\bin\Debug\net10.0-windows\runtimes\win-x64\native\krbcc64.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver with Database (login)\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.csproj.AssemblyReference.cache
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver with Database (login)\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.RoundedComboBox.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver with Database (login)\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.CustomControls.RoundedDataGridView.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver with Database (login)\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.RoundedTextBox.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver with Database (login)\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Authentication.LoginForm.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver with Database (login)\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Authentication.RegisterForm.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver with Database (login)\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Dialogs.LoginDialog.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver with Database (login)\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Dialogs.RegistrationCompleteDialog.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver with Database (login)\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.IndexForm.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver with Database (login)\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.MainForm.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver with Database (login)\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Nurse.PatientsCheckUpForm.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver with Database (login)\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Properties.Resources.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver with Database (login)\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.csproj.GenerateResource.cache
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver with Database (login)\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.GeneratedMSBuildEditorConfig.editorconfig
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver with Database (login)\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.AssemblyInfoInputs.cache
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver with Database (login)\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.AssemblyInfo.cs
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver with Database (login)\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.csproj.CoreCompileInputs.cache
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver with Database (login)\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.sourcelink.json
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver with Database (login)\VitalHealth\obj\Debug\net10.0-windows\VitalHea.3623D81A.Up2Date
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver with Database (login)\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver with Database (login)\VitalHealth\obj\Debug\net10.0-windows\refint\VitalHealth.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver with Database (login)\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.pdb
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver with Database (login)\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.genruntimeconfig.cache
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver with Database (login)\VitalHealth\obj\Debug\net10.0-windows\ref\VitalHealth.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver4 with adding doctors\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.csproj.AssemblyReference.cache
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver4 with adding doctors\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.RoundedComboBox.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver4 with adding doctors\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.CustomControls.RoundedDataGridView.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver4 with adding doctors\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.RoundedTextBox.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver4 with adding doctors\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Authentication.LoginForm.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver4 with adding doctors\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Authentication.RegisterForm.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver4 with adding doctors\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Dialogs.LoginDialog.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver4 with adding doctors\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Dialogs.RegistrationCompleteDialog.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver4 with adding doctors\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Doctor.DoctorAssignedPatients.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver4 with adding doctors\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.IndexForm.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver4 with adding doctors\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.MainForm.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver4 with adding doctors\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Nurse.PatientsCheckUpForm.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver4 with adding doctors\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Properties.Resources.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver4 with adding doctors\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.csproj.GenerateResource.cache
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver4 with adding doctors\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.GeneratedMSBuildEditorConfig.editorconfig
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver4 with adding doctors\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.AssemblyInfoInputs.cache
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver4 with adding doctors\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.AssemblyInfo.cs
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver4 with adding doctors\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.csproj.CoreCompileInputs.cache
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver4 with adding doctors\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.sourcelink.json
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver4 with adding doctors\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver4 with adding doctors\VitalHealth\obj\Debug\net10.0-windows\refint\VitalHealth.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver4 with adding doctors\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.pdb
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver4 with adding doctors\VitalHealth\bin\Debug\net10.0-windows\VitalHealth.exe
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver4 with adding doctors\VitalHealth\bin\Debug\net10.0-windows\VitalHealth.deps.json
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver4 with adding doctors\VitalHealth\bin\Debug\net10.0-windows\VitalHealth.runtimeconfig.json
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver4 with adding doctors\VitalHealth\bin\Debug\net10.0-windows\VitalHealth.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver4 with adding doctors\VitalHealth\bin\Debug\net10.0-windows\VitalHealth.pdb
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver4 with adding doctors\VitalHealth\bin\Debug\net10.0-windows\BouncyCastle.Cryptography.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver4 with adding doctors\VitalHealth\bin\Debug\net10.0-windows\Google.Protobuf.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver4 with adding doctors\VitalHealth\bin\Debug\net10.0-windows\K4os.Compression.LZ4.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver4 with adding doctors\VitalHealth\bin\Debug\net10.0-windows\K4os.Compression.LZ4.Streams.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver4 with adding doctors\VitalHealth\bin\Debug\net10.0-windows\K4os.Hash.xxHash.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver4 with adding doctors\VitalHealth\bin\Debug\net10.0-windows\MySql.Data.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver4 with adding doctors\VitalHealth\bin\Debug\net10.0-windows\ZstdSharp.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver4 with adding doctors\VitalHealth\bin\Debug\net10.0-windows\runtimes\win-x64\native\comerr64.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver4 with adding doctors\VitalHealth\bin\Debug\net10.0-windows\runtimes\win-x64\native\gssapi64.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver4 with adding doctors\VitalHealth\bin\Debug\net10.0-windows\runtimes\win-x64\native\k5sprt64.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver4 with adding doctors\VitalHealth\bin\Debug\net10.0-windows\runtimes\win-x64\native\krb5_64.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver4 with adding doctors\VitalHealth\bin\Debug\net10.0-windows\runtimes\win-x64\native\krbcc64.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver4 with adding doctors\VitalHealth\obj\Debug\net10.0-windows\VitalHea.3623D81A.Up2Date
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver4 with adding doctors\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.genruntimeconfig.cache
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver4 with adding doctors\VitalHealth\obj\Debug\net10.0-windows\ref\VitalHealth.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver4 with adding doctors\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Admin.AdminDashboard.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver5 merging all nurse\VitalHealth\bin\Debug\net10.0-windows\VitalHealth.exe
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver5 merging all nurse\VitalHealth\bin\Debug\net10.0-windows\VitalHealth.deps.json
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver5 merging all nurse\VitalHealth\bin\Debug\net10.0-windows\VitalHealth.runtimeconfig.json
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver5 merging all nurse\VitalHealth\bin\Debug\net10.0-windows\VitalHealth.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver5 merging all nurse\VitalHealth\bin\Debug\net10.0-windows\VitalHealth.pdb
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver5 merging all nurse\VitalHealth\bin\Debug\net10.0-windows\BouncyCastle.Cryptography.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver5 merging all nurse\VitalHealth\bin\Debug\net10.0-windows\Google.Protobuf.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver5 merging all nurse\VitalHealth\bin\Debug\net10.0-windows\K4os.Compression.LZ4.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver5 merging all nurse\VitalHealth\bin\Debug\net10.0-windows\K4os.Compression.LZ4.Streams.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver5 merging all nurse\VitalHealth\bin\Debug\net10.0-windows\K4os.Hash.xxHash.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver5 merging all nurse\VitalHealth\bin\Debug\net10.0-windows\MySql.Data.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver5 merging all nurse\VitalHealth\bin\Debug\net10.0-windows\ZstdSharp.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver5 merging all nurse\VitalHealth\bin\Debug\net10.0-windows\runtimes\win-x64\native\comerr64.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver5 merging all nurse\VitalHealth\bin\Debug\net10.0-windows\runtimes\win-x64\native\gssapi64.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver5 merging all nurse\VitalHealth\bin\Debug\net10.0-windows\runtimes\win-x64\native\k5sprt64.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver5 merging all nurse\VitalHealth\bin\Debug\net10.0-windows\runtimes\win-x64\native\krb5_64.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver5 merging all nurse\VitalHealth\bin\Debug\net10.0-windows\runtimes\win-x64\native\krbcc64.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver5 merging all nurse\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.csproj.AssemblyReference.cache
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver5 merging all nurse\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.RoundedComboBox.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver5 merging all nurse\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.CustomControls.RoundedDataGridView.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver5 merging all nurse\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.RoundedTextBox.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver5 merging all nurse\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Admin.AdminDashboard.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver5 merging all nurse\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Authentication.LoginForm.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver5 merging all nurse\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Authentication.RegisterForm.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver5 merging all nurse\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Dialogs.LoginDialog.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver5 merging all nurse\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Dialogs.RegistrationCompleteDialog.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver5 merging all nurse\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Doctor.DoctorAssignedPatients.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver5 merging all nurse\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.IndexForm.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver5 merging all nurse\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.MainForm.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver5 merging all nurse\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Nurse.PatientsCheckUpForm.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver5 merging all nurse\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Nurse.TodaysPatients.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver5 merging all nurse\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Properties.Resources.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver5 merging all nurse\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.csproj.GenerateResource.cache
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver5 merging all nurse\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.GeneratedMSBuildEditorConfig.editorconfig
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver5 merging all nurse\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.AssemblyInfoInputs.cache
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver5 merging all nurse\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.AssemblyInfo.cs
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver5 merging all nurse\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.csproj.CoreCompileInputs.cache
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver5 merging all nurse\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.sourcelink.json
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver5 merging all nurse\VitalHealth\obj\Debug\net10.0-windows\VitalHea.3623D81A.Up2Date
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver5 merging all nurse\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver5 merging all nurse\VitalHealth\obj\Debug\net10.0-windows\refint\VitalHealth.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver5 merging all nurse\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.pdb
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver5 merging all nurse\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.genruntimeconfig.cache
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver5 merging all nurse\VitalHealth\obj\Debug\net10.0-windows\ref\VitalHealth.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver5 merging all nurse\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Nurse.MissedCheckups.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver5 merging all nurse\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Nurse.EditPatientsRecord.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver5 merging all nurse\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Nurse.ViewingPatientsRecord.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver5 merging all nurse\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Doctor.PatientPastRecord.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver5 merging all nurse\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Doctor.DoctorSchedule.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver5 merging all nurse\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Doctor.EditProfile.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver5 merging all nurse\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Doctor.ViewPastRecords.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver5 merging all nurse\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Admin.ManageStaff.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver5 merging all nurse\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Admin.AddStaff.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver5 merging all nurse\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Admin.StaffCards.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver5 merging all nurse\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Admin.ViewPreviousRecords.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver5 merging all nurse\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Admin.DocSched.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver5 merging all nurse\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Admin.ViewInfo.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver5 merging all nurse\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Admin.UpdateFee.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\bin\Debug\net10.0-windows\VitalHealth.exe
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\bin\Debug\net10.0-windows\VitalHealth.deps.json
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\bin\Debug\net10.0-windows\VitalHealth.runtimeconfig.json
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\bin\Debug\net10.0-windows\VitalHealth.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\bin\Debug\net10.0-windows\VitalHealth.pdb
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\bin\Debug\net10.0-windows\BouncyCastle.Cryptography.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\bin\Debug\net10.0-windows\Google.Protobuf.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\bin\Debug\net10.0-windows\K4os.Compression.LZ4.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\bin\Debug\net10.0-windows\K4os.Compression.LZ4.Streams.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\bin\Debug\net10.0-windows\K4os.Hash.xxHash.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\bin\Debug\net10.0-windows\MySql.Data.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\bin\Debug\net10.0-windows\ZstdSharp.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\bin\Debug\net10.0-windows\runtimes\win-x64\native\comerr64.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\bin\Debug\net10.0-windows\runtimes\win-x64\native\gssapi64.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\bin\Debug\net10.0-windows\runtimes\win-x64\native\k5sprt64.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\bin\Debug\net10.0-windows\runtimes\win-x64\native\krb5_64.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\bin\Debug\net10.0-windows\runtimes\win-x64\native\krbcc64.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.csproj.AssemblyReference.cache
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.RoundedComboBox.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.CustomControls.RoundedDataGridView.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.RoundedTextBox.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Admin.AddStaff.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Admin.AdminDashboard.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Admin.DocSched.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Admin.ManageStaff.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Admin.StaffCards.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Admin.ViewInfo.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Admin.UpdateFee.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Admin.ViewPreviousRecords.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Authentication.LoginForm.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Authentication.RegisterForm.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Dialogs.LoginDialog.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Dialogs.RegistrationCompleteDialog.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Doctor.DoctorAssignedPatients.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Doctor.DoctorSchedule.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.IndexForm.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.MainForm.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Nurse.EditPatientsRecord.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Nurse.MissedCheckups.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Nurse.PatientsCheckUpForm.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Nurse.TodaysPatients.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Nurse.ViewingPatientsRecord.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Properties.Resources.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.csproj.GenerateResource.cache
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.GeneratedMSBuildEditorConfig.editorconfig
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.AssemblyInfoInputs.cache
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.AssemblyInfo.cs
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.csproj.CoreCompileInputs.cache
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.sourcelink.json
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\obj\Debug\net10.0-windows\VitalHea.3623D81A.Up2Date
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\obj\Debug\net10.0-windows\refint\VitalHealth.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.pdb
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.genruntimeconfig.cache
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\obj\Debug\net10.0-windows\ref\VitalHealth.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.RoundedMultilineTextBox.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Nurse.SchedAndFee.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Dialogs.ProfUpdatedSuccessfully.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Dialogs.saveChangesNurse.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Doctor.DoctorEditProfile.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Doctor.DoctorPatientPastRecord.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Doctor.DoctorViewPastRecords.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Nurse.EditNurseProfile.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Nurse.NursePatientPastRecords.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver6 merging all merge\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Nurse.DoctorConsult.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\bin\Debug\net10.0-windows\VitalHealth.exe
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\bin\Debug\net10.0-windows\VitalHealth.deps.json
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\bin\Debug\net10.0-windows\VitalHealth.runtimeconfig.json
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\bin\Debug\net10.0-windows\VitalHealth.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\bin\Debug\net10.0-windows\VitalHealth.pdb
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\bin\Debug\net10.0-windows\BouncyCastle.Cryptography.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\bin\Debug\net10.0-windows\Google.Protobuf.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\bin\Debug\net10.0-windows\K4os.Compression.LZ4.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\bin\Debug\net10.0-windows\K4os.Compression.LZ4.Streams.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\bin\Debug\net10.0-windows\K4os.Hash.xxHash.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\bin\Debug\net10.0-windows\MySql.Data.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\bin\Debug\net10.0-windows\ZstdSharp.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\bin\Debug\net10.0-windows\runtimes\win-x64\native\comerr64.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\bin\Debug\net10.0-windows\runtimes\win-x64\native\gssapi64.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\bin\Debug\net10.0-windows\runtimes\win-x64\native\k5sprt64.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\bin\Debug\net10.0-windows\runtimes\win-x64\native\krb5_64.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\bin\Debug\net10.0-windows\runtimes\win-x64\native\krbcc64.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.csproj.AssemblyReference.cache
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.RoundedComboBox.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.CustomControls.RoundedDataGridView.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.RoundedMultilineTextBox.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.RoundedTextBox.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Admin.AddStaff.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Admin.AdminDashboard.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Admin.DocSched.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Admin.ManageStaff.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Admin.StaffCards.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Admin.ViewInfo.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Admin.UpdateFee.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Admin.ViewPreviousRecords.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Authentication.LoginForm.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Authentication.RegisterForm.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Dialogs.ProfUpdatedSuccessfully.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Dialogs.RegistrationCompleteDialog.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Dialogs.saveChangesNurse.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Doctor.DoctorAssignedPatients.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Doctor.DoctorEditProfile.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Doctor.DoctorPatientPastRecord.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Doctor.DoctorSchedule.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Doctor.DoctorViewPastRecords.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.IndexForm.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.MainForm.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Nurse.DoctorConsult.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Nurse.EditNurseProfile.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Nurse.EditPatientsRecord.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Nurse.MissedCheckups.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Nurse.NursePatientPastRecords.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Nurse.PatientsCheckUpForm.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Nurse.SchedAndFee.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Nurse.TodaysPatients.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Nurse.ViewingPatientsRecord.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Properties.Resources.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.csproj.GenerateResource.cache
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.GeneratedMSBuildEditorConfig.editorconfig
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.AssemblyInfoInputs.cache
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.AssemblyInfo.cs
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.csproj.CoreCompileInputs.cache
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.sourcelink.json
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\obj\Debug\net10.0-windows\VitalHea.3623D81A.Up2Date
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\obj\Debug\net10.0-windows\refint\VitalHealth.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.pdb
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.genruntimeconfig.cache
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\obj\Debug\net10.0-windows\ref\VitalHealth.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Dialogs.SmallInfoDialog.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Authentication.ResetPasswordForm.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver7 completing user auth backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Dialogs.ConfirmActionDialog.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\bin\Debug\net10.0-windows\VitalHealth.exe
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\bin\Debug\net10.0-windows\VitalHealth.deps.json
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\bin\Debug\net10.0-windows\VitalHealth.runtimeconfig.json
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\bin\Debug\net10.0-windows\VitalHealth.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\bin\Debug\net10.0-windows\VitalHealth.pdb
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\bin\Debug\net10.0-windows\BouncyCastle.Cryptography.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\bin\Debug\net10.0-windows\Google.Protobuf.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\bin\Debug\net10.0-windows\K4os.Compression.LZ4.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\bin\Debug\net10.0-windows\K4os.Compression.LZ4.Streams.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\bin\Debug\net10.0-windows\K4os.Hash.xxHash.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\bin\Debug\net10.0-windows\MySql.Data.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\bin\Debug\net10.0-windows\ZstdSharp.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\bin\Debug\net10.0-windows\runtimes\win-x64\native\comerr64.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\bin\Debug\net10.0-windows\runtimes\win-x64\native\gssapi64.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\bin\Debug\net10.0-windows\runtimes\win-x64\native\k5sprt64.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\bin\Debug\net10.0-windows\runtimes\win-x64\native\krb5_64.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\bin\Debug\net10.0-windows\runtimes\win-x64\native\krbcc64.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.csproj.AssemblyReference.cache
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.RoundedComboBox.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.CustomControls.RoundedDataGridView.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.RoundedMultilineTextBox.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.RoundedTextBox.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Admin.AddStaff.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Admin.AdminDashboard.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Admin.DocSched.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Admin.ManageStaff.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Admin.StaffCards.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Admin.ViewInfo.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Admin.UpdateFee.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Admin.ViewPreviousRecords.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Authentication.LoginForm.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Authentication.RegisterForm.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Authentication.ResetPasswordForm.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Dialogs.ConfirmActionDialog.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Dialogs.ProfUpdatedSuccessfully.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Dialogs.RegistrationCompleteDialog.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Dialogs.saveChangesNurse.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Dialogs.SmallInfoDialog.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Doctor.DoctorAssignedPatients.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Doctor.DoctorEditProfile.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Doctor.DoctorPatientPastRecord.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Doctor.DoctorSchedule.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Doctor.DoctorViewPastRecords.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.IndexForm.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.MainForm.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Nurse.DoctorConsult.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Nurse.EditNurseProfile.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Nurse.EditPatientsRecord.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Nurse.MissedCheckups.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Nurse.NursePatientPastRecords.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Nurse.PatientsCheckUpForm.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Nurse.SchedAndFee.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Nurse.TodaysPatients.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Nurse.ViewingPatientsRecord.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Properties.Resources.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.csproj.GenerateResource.cache
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.GeneratedMSBuildEditorConfig.editorconfig
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.AssemblyInfoInputs.cache
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.AssemblyInfo.cs
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.csproj.CoreCompileInputs.cache
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.sourcelink.json
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\obj\Debug\net10.0-windows\VitalHea.3623D81A.Up2Date
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\obj\Debug\net10.0-windows\refint\VitalHealth.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.pdb
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.genruntimeconfig.cache
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver8 admin backend\VitalHealth\obj\Debug\net10.0-windows\ref\VitalHealth.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\bin\Debug\net10.0-windows\VitalHealth.exe
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\bin\Debug\net10.0-windows\VitalHealth.deps.json
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\bin\Debug\net10.0-windows\VitalHealth.runtimeconfig.json
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\bin\Debug\net10.0-windows\VitalHealth.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\bin\Debug\net10.0-windows\VitalHealth.pdb
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\bin\Debug\net10.0-windows\BouncyCastle.Cryptography.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\bin\Debug\net10.0-windows\Google.Protobuf.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\bin\Debug\net10.0-windows\K4os.Compression.LZ4.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\bin\Debug\net10.0-windows\K4os.Compression.LZ4.Streams.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\bin\Debug\net10.0-windows\K4os.Hash.xxHash.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\bin\Debug\net10.0-windows\MySql.Data.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\bin\Debug\net10.0-windows\ZstdSharp.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\bin\Debug\net10.0-windows\runtimes\win-x64\native\comerr64.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\bin\Debug\net10.0-windows\runtimes\win-x64\native\gssapi64.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\bin\Debug\net10.0-windows\runtimes\win-x64\native\k5sprt64.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\bin\Debug\net10.0-windows\runtimes\win-x64\native\krb5_64.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\bin\Debug\net10.0-windows\runtimes\win-x64\native\krbcc64.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.csproj.AssemblyReference.cache
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.RoundedComboBox.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.CustomControls.RoundedDataGridView.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.RoundedMultilineTextBox.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.RoundedTextBox.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Admin.AddStaff.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Admin.AdminDashboard.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Admin.DocSched.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Admin.ManageStaff.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Admin.StaffCards.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Admin.ViewInfo.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Admin.UpdateFee.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Admin.ViewPreviousRecords.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Authentication.LoginForm.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Authentication.RegisterForm.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Authentication.ResetPasswordForm.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Dialogs.ConfirmActionDialog.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Dialogs.ProfUpdatedSuccessfully.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Dialogs.RegistrationCompleteDialog.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Dialogs.saveChangesNurse.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Dialogs.SmallInfoDialog.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Doctor.DoctorAssignedPatients.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Doctor.DoctorEditProfile.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Doctor.DoctorPatientPastRecord.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Doctor.DoctorSchedule.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Doctor.DoctorViewPastRecords.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.IndexForm.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.MainForm.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Nurse.DoctorConsult.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Nurse.EditNurseProfile.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Nurse.EditPatientsRecord.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Nurse.MissedCheckups.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Nurse.NursePatientPastRecords.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Nurse.PatientsCheckUpForm.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Nurse.SchedAndFee.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Nurse.TodaysPatients.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Forms.Nurse.ViewingPatientsRecord.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.Properties.Resources.resources
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.csproj.GenerateResource.cache
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.GeneratedMSBuildEditorConfig.editorconfig
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.AssemblyInfoInputs.cache
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.AssemblyInfo.cs
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.csproj.CoreCompileInputs.cache
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.sourcelink.json
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\obj\Debug\net10.0-windows\VitalHea.3623D81A.Up2Date
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\obj\Debug\net10.0-windows\refint\VitalHealth.dll
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.pdb
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\obj\Debug\net10.0-windows\VitalHealth.genruntimeconfig.cache
+F:\Github Repository\jestonideasis\School\VitalHealth_Rep\VitalHealth_ver9 more use backend\VitalHealth\obj\Debug\net10.0-windows\ref\VitalHealth.dll

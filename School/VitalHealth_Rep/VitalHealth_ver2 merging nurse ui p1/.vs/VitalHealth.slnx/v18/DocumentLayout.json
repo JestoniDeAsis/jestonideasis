@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver merging nurse ui p1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|f:\\github repository\\jestonideasis\\school\\vitalhealth_rep\\vitalhealth_ver merging nurse ui p1\\vitalhealth\\forms\\authentication\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|solutionrelative:vitalhealth\\forms\\authentication\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|f:\\github repository\\jestonideasis\\school\\vitalhealth_rep\\vitalhealth_ver merging nurse ui p1\\vitalhealth\\forms\\authentication\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|solutionrelative:vitalhealth\\forms\\authentication\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|f:\\github repository\\jestonideasis\\school\\vitalhealth_rep\\vitalhealth_ver merging nurse ui p1\\vitalhealth\\forms\\authentication\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|solutionrelative:vitalhealth\\forms\\authentication\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver merging nurse ui p1\\vitalhealth\\forms\\authentication\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|solutionrelative:vitalhealth\\forms\\authentication\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver merging nurse ui p1\\vitalhealth\\forms\\indexform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|solutionrelative:vitalhealth\\forms\\indexform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|f:\\github repository\\jestonideasis\\school\\vitalhealth_rep\\vitalhealth_ver merging nurse ui p1\\vitalhealth\\forms\\indexform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|solutionrelative:vitalhealth\\forms\\indexform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver merging nurse ui p1\\vitalhealth\\forms\\nurse\\patientscheckupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|solutionrelative:vitalhealth\\forms\\nurse\\patientscheckupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|f:\\github repository\\jestonideasis\\school\\vitalhealth_rep\\vitalhealth_ver merging nurse ui p1\\vitalhealth\\forms\\dialogs\\logindialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|solutionrelative:vitalhealth\\forms\\dialogs\\logindialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|f:\\github repository\\jestonideasis\\school\\vitalhealth_rep\\vitalhealth_ver merging nurse ui p1\\vitalhealth\\forms\\dialogs\\logindialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|solutionrelative:vitalhealth\\forms\\dialogs\\logindialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|f:\\github repository\\jestonideasis\\school\\vitalhealth_rep\\vitalhealth_ver merging nurse ui p1\\vitalhealth\\forms\\dialogs\\registrationcompletedialog.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|solutionrelative:vitalhealth\\forms\\dialogs\\registrationcompletedialog.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|f:\\github repository\\jestonideasis\\school\\vitalhealth_rep\\vitalhealth_ver merging nurse ui p1\\vitalhealth\\forms\\nurse\\patientscheckupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|solutionrelative:vitalhealth\\forms\\nurse\\patientscheckupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|f:\\github repository\\jestonideasis\\school\\vitalhealth_rep\\vitalhealth_ver merging nurse ui p1\\vitalhealth\\data\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|solutionrelative:vitalhealth\\data\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|f:\\github repository\\jestonideasis\\school\\vitalhealth_rep\\vitalhealth_ver merging nurse ui p1\\vitalhealth\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|solutionrelative:vitalhealth\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|f:\\github repository\\jestonideasis\\school\\vitalhealth_rep\\vitalhealth_ver merging nurse ui p1\\vitalhealth\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|solutionrelative:vitalhealth\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|f:\\github repository\\jestonideasis\\school\\vitalhealth_rep\\vitalhealth_ver merging nurse ui p1\\vitalhealth\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{C3F6E4A6-6B40-5605-032A-24EA49DB3B12}|VitalHealth\\VitalHealth.csproj|solutionrelative:vitalhealth\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver merging nurse ui p1\\VitalHealth\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "VitalHealth\\Forms\\MainForm.cs",
+              "ToolTip": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver merging nurse ui p1\\VitalHealth\\Forms\\MainForm.cs",
+              "RelativeToolTip": "VitalHealth\\Forms\\MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T08:55:50.114Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IndexForm.cs",
+              "DocumentMoniker": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver merging nurse ui p1\\VitalHealth\\Forms\\IndexForm.cs",
+              "RelativeDocumentMoniker": "VitalHealth\\Forms\\IndexForm.cs",
+              "ToolTip": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver merging nurse ui p1\\VitalHealth\\Forms\\IndexForm.cs",
+              "RelativeToolTip": "VitalHealth\\Forms\\IndexForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T03:06:24.716Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IndexForm.cs [Design]",
+              "DocumentMoniker": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver merging nurse ui p1\\VitalHealth\\Forms\\IndexForm.cs",
+              "RelativeDocumentMoniker": "VitalHealth\\Forms\\IndexForm.cs",
+              "ToolTip": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver merging nurse ui p1\\VitalHealth\\Forms\\IndexForm.cs [Design]",
+              "RelativeToolTip": "VitalHealth\\Forms\\IndexForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T01:40:09.863Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver merging nurse ui p1\\VitalHealth\\Forms\\Authentication\\LoginForm.cs",
+              "RelativeDocumentMoniker": "VitalHealth\\Forms\\Authentication\\LoginForm.cs",
+              "ToolTip": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver merging nurse ui p1\\VitalHealth\\Forms\\Authentication\\LoginForm.cs",
+              "RelativeToolTip": "VitalHealth\\Forms\\Authentication\\LoginForm.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAIwFoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T03:41:04.41Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver merging nurse ui p1\\VitalHealth\\Forms\\Authentication\\LoginForm.cs",
+              "RelativeDocumentMoniker": "VitalHealth\\Forms\\Authentication\\LoginForm.cs",
+              "ToolTip": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver merging nurse ui p1\\VitalHealth\\Forms\\Authentication\\LoginForm.cs [Design]",
+              "RelativeToolTip": "VitalHealth\\Forms\\Authentication\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T02:37:35.81Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver merging nurse ui p1\\VitalHealth\\Forms\\Authentication\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "VitalHealth\\Forms\\Authentication\\RegisterForm.cs",
+              "ToolTip": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver merging nurse ui p1\\VitalHealth\\Forms\\Authentication\\RegisterForm.cs",
+              "RelativeToolTip": "VitalHealth\\Forms\\Authentication\\RegisterForm.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAuwEMAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T08:01:01.004Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterForm.cs [Design]",
+              "DocumentMoniker": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver merging nurse ui p1\\VitalHealth\\Forms\\Authentication\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "VitalHealth\\Forms\\Authentication\\RegisterForm.cs",
+              "ToolTip": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver merging nurse ui p1\\VitalHealth\\Forms\\Authentication\\RegisterForm.cs [Design]",
+              "RelativeToolTip": "VitalHealth\\Forms\\Authentication\\RegisterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T07:52:50.713Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver merging nurse ui p1\\VitalHealth\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "VitalHealth\\Properties\\Resources.resx",
+              "ToolTip": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver merging nurse ui p1\\VitalHealth\\Properties\\Resources.resx",
+              "RelativeToolTip": "VitalHealth\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-03-19T01:45:37.969Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver merging nurse ui p1\\VitalHealth\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "VitalHealth\\Properties\\Resources.Designer.cs",
+              "ToolTip": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver merging nurse ui p1\\VitalHealth\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "VitalHealth\\Properties\\Resources.Designer.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAABgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T01:44:57.951Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DBConnection.cs",
+              "DocumentMoniker": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver merging nurse ui p1\\VitalHealth\\Data\\DBConnection.cs",
+              "RelativeDocumentMoniker": "VitalHealth\\Data\\DBConnection.cs",
+              "ToolTip": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver merging nurse ui p1\\VitalHealth\\Data\\DBConnection.cs",
+              "RelativeToolTip": "VitalHealth\\Data\\DBConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T05:36:30.039Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PatientsCheckUpForm.cs",
+              "DocumentMoniker": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver merging nurse ui p1\\VitalHealth\\Forms\\Nurse\\PatientsCheckUpForm.cs",
+              "RelativeDocumentMoniker": "VitalHealth\\Forms\\Nurse\\PatientsCheckUpForm.cs",
+              "ToolTip": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver merging nurse ui p1\\VitalHealth\\Forms\\Nurse\\PatientsCheckUpForm.cs",
+              "RelativeToolTip": "VitalHealth\\Forms\\Nurse\\PatientsCheckUpForm.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAjwBQAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T07:12:57.835Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PatientsCheckUpForm.cs [Design]",
+              "DocumentMoniker": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver merging nurse ui p1\\VitalHealth\\Forms\\Nurse\\PatientsCheckUpForm.cs",
+              "RelativeDocumentMoniker": "VitalHealth\\Forms\\Nurse\\PatientsCheckUpForm.cs",
+              "ToolTip": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver merging nurse ui p1\\VitalHealth\\Forms\\Nurse\\PatientsCheckUpForm.cs [Design]",
+              "RelativeToolTip": "VitalHealth\\Forms\\Nurse\\PatientsCheckUpForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T07:15:22.571Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegistrationCompleteDialog.Designer.cs",
+              "DocumentMoniker": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver merging nurse ui p1\\VitalHealth\\Forms\\Dialogs\\RegistrationCompleteDialog.Designer.cs",
+              "RelativeDocumentMoniker": "VitalHealth\\Forms\\Dialogs\\RegistrationCompleteDialog.Designer.cs",
+              "ToolTip": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver merging nurse ui p1\\VitalHealth\\Forms\\Dialogs\\RegistrationCompleteDialog.Designer.cs",
+              "RelativeToolTip": "VitalHealth\\Forms\\Dialogs\\RegistrationCompleteDialog.Designer.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAADgv0MAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T08:04:36.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginDialog.cs [Design]",
+              "DocumentMoniker": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver merging nurse ui p1\\VitalHealth\\Forms\\Dialogs\\LoginDialog.cs",
+              "RelativeDocumentMoniker": "VitalHealth\\Forms\\Dialogs\\LoginDialog.cs",
+              "ToolTip": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver merging nurse ui p1\\VitalHealth\\Forms\\Dialogs\\LoginDialog.cs [Design]",
+              "RelativeToolTip": "VitalHealth\\Forms\\Dialogs\\LoginDialog.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T06:31:31.297Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginDialog.cs",
+              "DocumentMoniker": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver merging nurse ui p1\\VitalHealth\\Forms\\Dialogs\\LoginDialog.cs",
+              "RelativeDocumentMoniker": "VitalHealth\\Forms\\Dialogs\\LoginDialog.cs",
+              "ToolTip": "F:\\Github Repository\\jestonideasis\\School\\VitalHealth_Rep\\VitalHealth_ver merging nurse ui p1\\VitalHealth\\Forms\\Dialogs\\LoginDialog.cs",
+              "RelativeToolTip": "VitalHealth\\Forms\\Dialogs\\LoginDialog.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T06:18:25.219Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

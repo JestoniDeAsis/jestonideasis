@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/btn_prevMonth"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/default_button"
+                android:text="◀"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/txtV_monthName"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="monthName"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btn_nextMonth"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/default_button"
+                android:text="▶"
+                android:textSize="20sp"/>
+
+        </LinearLayout>
+
+
+        <GridLayout
+            android:id="@+id/gridL_weekContainer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="20dp"
+            android:columnCount="7">
+
+            <TextView
+                android:text="M"
+                android:layout_width="0dp"
+                android:layout_height="28dp"
+                android:layout_columnWeight="1"
+                android:gravity="center"
+                android:background="@drawable/cell_border"/>
+
+            <TextView
+                android:text="T"
+                android:layout_width="0dp"
+                android:layout_height="28dp"
+                android:layout_columnWeight="1"
+                android:gravity="center"
+                android:background="@drawable/cell_border"/>
+
+            <TextView
+                android:text="W"
+                android:layout_width="0dp"
+                android:layout_height="28dp"
+                android:layout_columnWeight="1"
+                android:gravity="center"
+                android:background="@drawable/cell_border"/>
+
+            <TextView
+                android:text="T"
+                android:layout_width="0dp"
+                android:layout_height="28dp"
+                android:layout_columnWeight="1"
+                android:gravity="center"
+                android:background="@drawable/cell_border"/>
+
+            <TextView
+                android:text="F"
+                android:layout_width="0dp"
+                android:layout_height="28dp"
+                android:layout_columnWeight="1"
+                android:gravity="center"
+                android:background="@drawable/cell_border"/>
+            <TextView
+                android:text="S"
+                android:layout_width="0dp"
+                android:layout_height="28dp"
+                android:layout_columnWeight="1"
+                android:gravity="center"
+                android:background="@drawable/cell_border"/>
+
+            <TextView
+                android:text="S"
+                android:layout_width="0dp"
+                android:layout_height="28dp"
+                android:layout_columnWeight="1"
+                android:gravity="center"
+                android:background="@drawable/cell_border"/>
+
+        </GridLayout>
+
+        <GridLayout
+            android:id="@+id/gridL_daysContainer"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:columnCount="7"
+            android:paddingTop="20dp">
+
+        </GridLayout>
+
+    </LinearLayout>
+
+</ScrollView>

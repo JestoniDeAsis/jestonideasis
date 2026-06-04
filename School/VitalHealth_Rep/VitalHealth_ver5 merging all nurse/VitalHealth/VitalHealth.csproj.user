@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="CustomControls\RoundedButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="CustomControls\RoundedComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="CustomControls\RoundedDataGridView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="CustomControls\RoundedDateTimePicker.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="CustomControls\RoundedPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="CustomControls\RoundedRadioButton.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="CustomControls\RoundedTextbox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Admin\AddStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Admin\AdminDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Admin\DocSched.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Admin\ManageStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Admin\StaffCards.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Admin\StaffDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Admin\UpdateFee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Admin\ViewPreviousRecords.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Authentication\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Authentication\RegisterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Dialogs\LoginDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Dialogs\RegistrationCompleteDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Doctor\DoctorAssignedPatients.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Doctor\DoctorSchedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Doctor\EditProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Doctor\PatientPastRecord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Doctor\ViewPastRecords.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\IndexForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Nurse\EditPatientsRecord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Nurse\MissedCheckups.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Nurse\PatientsCheckUpForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Nurse\TodaysPatients.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Nurse\ViewingPatientsRecord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
