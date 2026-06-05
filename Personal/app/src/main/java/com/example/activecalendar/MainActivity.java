@@ -130,12 +130,13 @@ public class MainActivity extends AppCompatActivity {
 
             GradientDrawable drawable = (GradientDrawable) dayContainer.getBackground();
             drawable.setStroke(1, Color.argb(128, 0, 0, 0));
+            drawable.setColor(Color.argb(8, 0, 0, 0));
 
             TextView dayText = new TextView(this);
 
             dayText.setText(String.valueOf(day));
             dayText.setPadding(20, 0, 20, 0);
-            dayText.setAlpha(0.8f);
+            dayText.setAlpha(0.6f);
 
             dayContainer.addView(dayText);
 
@@ -161,14 +162,18 @@ public class MainActivity extends AppCompatActivity {
             dayContainer.setPadding(0, 5, 0, 0);
             dayContainer.setBackgroundResource(R.drawable.cell_border);
 
+            GradientDrawable drawable = (GradientDrawable) dayContainer.getBackground();
+            drawable.setStroke(1, Color.argb(255, 0, 0, 0));
+            drawable.setColor(Color.argb(0, 0, 0, 0));
+
             TextView dayText = new TextView(this);
 
             dayText.setText(String.valueOf(day));
             dayText.setPadding(20, 0, 20, 0);
 //            dayText.setTypeface(dayText.getTypeface(), Typeface.BOLD);
             if (currentMonth == monthToView && currentYear == yearToView && day == currentDay) {
-                GradientDrawable drawable = (GradientDrawable) dayContainer.getBackground().mutate();
-                drawable.setStroke(3, Color.argb(255, 0, 0, 0));
+                GradientDrawable currdrawable = (GradientDrawable) dayContainer.getBackground().mutate();
+                currdrawable.setStroke(3, Color.argb(255, 0, 0, 0));
 
                 GradientDrawable bg = new GradientDrawable();
                 bg.setColor(Color.argb(128, 255, 0, 0));
@@ -198,14 +203,18 @@ public class MainActivity extends AppCompatActivity {
             LinearLayout dayContainer = new LinearLayout(this);
 
             dayContainer.setGravity(Gravity.TOP | Gravity.CENTER_HORIZONTAL);
-            dayContainer.setBackgroundResource(R.drawable.cell_border);
             dayContainer.setPadding(0, 5, 0, 0);
+            dayContainer.setBackgroundResource(R.drawable.cell_border);
+
+            GradientDrawable drawable = (GradientDrawable) dayContainer.getBackground();
+            drawable.setStroke(1, Color.argb(128, 0, 0, 0));
+            drawable.setColor(Color.argb(8, 0, 0, 0));
 
             TextView dayText = new TextView(this);
 
             dayText.setText(String.valueOf(day));
             dayText.setPadding(20, 0, 20, 0);
-            dayText.setAlpha(0.8f);
+            dayText.setAlpha(0.6f);
 
             dayContainer.addView(dayText);
 
