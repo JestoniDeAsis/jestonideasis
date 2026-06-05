@@ -1,8 +1,13 @@
 package com.example.activecalendar;
 
+import android.graphics.Color;
+import android.graphics.drawable.GradientDrawable;
 import android.os.Bundle;
 import android.view.Gravity;
+import android.view.View;
+import android.widget.Button;
 import android.widget.GridLayout;
+import android.widget.LinearLayout;
 import android.widget.TextView;
 
 import androidx.activity.EdgeToEdge;
@@ -13,13 +18,17 @@ import androidx.core.view.WindowInsetsCompat;
 
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
-import java.util.Date;
 import java.util.Locale;
 
 
 public class MainActivity extends AppCompatActivity {
     TextView txtV_monthName;
     GridLayout gridL_daysContainer;
+    Button btn_prevMonth, btn_nextMonth;
+
+    int yearToView = 2026;
+    int monthToView = 5;
+    int currentDay, currentMonth, currentYear;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -34,8 +43,45 @@ public class MainActivity extends AppCompatActivity {
 
         txtV_monthName = findViewById(R.id.txtV_monthName);
         gridL_daysContainer = findViewById(R.id.gridL_daysContainer);
+        btn_prevMonth = findViewById(R.id.btn_prevMonth);
+        btn_nextMonth = findViewById(R.id.btn_nextMonth);
 
-        setCalendarDisplay(5, 2026);
+
+        Calendar calendar = Calendar.getInstance();
+
+        currentYear = calendar.get(Calendar.YEAR);
+        currentMonth = calendar.get(Calendar.MONTH) + 1;
+        currentDay = calendar.get(Calendar.DAY_OF_MONTH);
+
+        yearToView = currentYear;
+        monthToView = currentMonth;
+
+        setCalendarDisplay(monthToView, yearToView);
+
+        btn_prevMonth.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                monthToView -= 1;
+                if (monthToView == -1) {
+                    monthToView = 11;
+                    yearToView -= 1;
+                }
+                else if (monthToView == 12) {
+                    monthToView = 0;
+                    yearToView += 1;
+                }
+                setCalendarDisplay(monthToView, yearToView);
+            }
+        });
+
+        btn_nextMonth.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                monthToView += 1;
+                setCalendarDisplay(monthToView, yearToView);
+            }
+        });
+
         }
 
     void setCalendarDisplay(int month, int year) {
@@ -74,73 +120,106 @@ public class MainActivity extends AppCompatActivity {
         int nextMonthDays = totalCells - usedCells;
 
         // Previous month's trailing days
-        for (int day = firstPreviousDay;
-             day <= daysInPreviousMonth;
-             day++) {
+        for (int day = firstPreviousDay; day <= daysInPreviousMonth; day++) {
 
-            TextView tv = new TextView(this);
+            LinearLayout dayContainer = new LinearLayout(this);
 
-            tv.setText(String.valueOf(day));
-            tv.setGravity(Gravity.TOP | Gravity.CENTER_HORIZONTAL);
-            tv.setBackgroundResource(R.drawable.cell_border);
-            tv.setAlpha(0.4f);
+            dayContainer.setGravity(Gravity.TOP | Gravity.CENTER_HORIZONTAL);
+            dayContainer.setPadding(0, 5, 0, 0);
+            dayContainer.setBackgroundResource(R.drawable.cell_border);
 
-            GridLayout.LayoutParams params =
-                    new GridLayout.LayoutParams();
+            GradientDrawable drawable = (GradientDrawable) dayContainer.getBackground();
+            drawable.setStroke(1, Color.argb(128, 0, 0, 0));
 
-            params.width = 0;
-            params.height = 0;
-            params.columnSpec = GridLayout.spec(GridLayout.UNDEFINED, 1f);
-            params.rowSpec = GridLayout.spec(GridLayout.UNDEFINED, 1f);
+            TextView dayText = new TextView(this);
 
-            tv.setLayoutParams(params);
+            dayText.setText(String.valueOf(day));
+            dayText.setPadding(20, 0, 20, 0);
+            dayText.setAlpha(0.8f);
 
-            gridL_daysContainer.addView(tv);
+            dayContainer.addView(dayText);
+
+
+            GridLayout.LayoutParams dayContainerParams = new GridLayout.LayoutParams();
+
+            dayContainerParams.width = 0;
+            dayContainerParams.height = 0;
+            dayContainerParams.columnSpec = GridLayout.spec(GridLayout.UNDEFINED, 1f);
+            dayContainerParams.rowSpec = GridLayout.spec(GridLayout.UNDEFINED, 1f);
+
+            dayContainer.setLayoutParams(dayContainerParams);
+
+            gridL_daysContainer.addView(dayContainer);
         }
 
         // Current month day cells
         for (int day = 1; day <= daysInMonth; day++) {
 
-            TextView tv = new TextView(this);
+            LinearLayout dayContainer = new LinearLayout(this);
 
-            tv.setText(String.valueOf(day));
-            tv.setGravity(Gravity.TOP | Gravity.CENTER_HORIZONTAL);
-            tv.setBackgroundResource(R.drawable.cell_border);
+            dayContainer.setGravity(Gravity.TOP | Gravity.CENTER_HORIZONTAL);
+            dayContainer.setPadding(0, 5, 0, 0);
+            dayContainer.setBackgroundResource(R.drawable.cell_border);
 
-            GridLayout.LayoutParams params =
-                    new GridLayout.LayoutParams();
+            TextView dayText = new TextView(this);
 
-            params.width = 0;
-            params.height = 0;
-            params.columnSpec = GridLayout.spec(GridLayout.UNDEFINED, 1f);
-            params.rowSpec = GridLayout.spec(GridLayout.UNDEFINED, 1f);
+            dayText.setText(String.valueOf(day));
+            dayText.setPadding(20, 0, 20, 0);
+//            dayText.setTypeface(dayText.getTypeface(), Typeface.BOLD);
+            if (currentMonth == monthToView && currentYear == yearToView && day == currentDay) {
+                GradientDrawable drawable = (GradientDrawable) dayContainer.getBackground().mutate();
+                drawable.setStroke(3, Color.argb(255, 0, 0, 0));
 
-            tv.setLayoutParams(params);
+                GradientDrawable bg = new GradientDrawable();
+                bg.setColor(Color.argb(128, 255, 0, 0));
+                bg.setCornerRadius(10);
 
-            gridL_daysContainer.addView(tv);
+                dayText.setBackground(bg);
+            }
+
+            dayContainer.addView(dayText);
+
+
+            GridLayout.LayoutParams dayContainerParams = new GridLayout.LayoutParams();
+
+            dayContainerParams.width = 0;
+            dayContainerParams.height = 0;
+            dayContainerParams.columnSpec = GridLayout.spec(GridLayout.UNDEFINED, 1f);
+            dayContainerParams.rowSpec = GridLayout.spec(GridLayout.UNDEFINED, 1f);
+
+            dayContainer.setLayoutParams(dayContainerParams);
+
+            gridL_daysContainer.addView(dayContainer);
         }
 
         // Next month's leading days
         for (int day = 1; day <= nextMonthDays; day++) {
 
-            TextView tv = new TextView(this);
+            LinearLayout dayContainer = new LinearLayout(this);
 
-            tv.setText(String.valueOf(day));
-            tv.setGravity(Gravity.TOP | Gravity.CENTER_HORIZONTAL);
-            tv.setBackgroundResource(R.drawable.cell_border);
-            tv.setAlpha(0.4f);
+            dayContainer.setGravity(Gravity.TOP | Gravity.CENTER_HORIZONTAL);
+            dayContainer.setBackgroundResource(R.drawable.cell_border);
+            dayContainer.setPadding(0, 5, 0, 0);
 
-            GridLayout.LayoutParams params =
-                    new GridLayout.LayoutParams();
+            TextView dayText = new TextView(this);
 
-            params.width = 0;
-            params.height = 0;
-            params.columnSpec = GridLayout.spec(GridLayout.UNDEFINED, 1f);
-            params.rowSpec = GridLayout.spec(GridLayout.UNDEFINED, 1f);
+            dayText.setText(String.valueOf(day));
+            dayText.setPadding(20, 0, 20, 0);
+            dayText.setAlpha(0.8f);
 
-            tv.setLayoutParams(params);
+            dayContainer.addView(dayText);
 
-            gridL_daysContainer.addView(tv);
+
+            GridLayout.LayoutParams dayContainerParams = new GridLayout.LayoutParams();
+
+            dayContainerParams.width = 0;
+            dayContainerParams.height = 0;
+            dayContainerParams.columnSpec = GridLayout.spec(GridLayout.UNDEFINED, 1f);
+            dayContainerParams.rowSpec = GridLayout.spec(GridLayout.UNDEFINED, 1f);
+
+            dayContainer.setLayoutParams(dayContainerParams);
+
+            gridL_daysContainer.addView(dayContainer);
         }
     }
 }
