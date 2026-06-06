@@ -50,7 +50,7 @@ public class MainActivity extends AppCompatActivity {
         Calendar calendar = Calendar.getInstance();
 
         currentYear = calendar.get(Calendar.YEAR);
-        currentMonth = calendar.get(Calendar.MONTH) + 1;
+        currentMonth = calendar.get(Calendar.MONTH);
         currentDay = calendar.get(Calendar.DAY_OF_MONTH);
 
         yearToView = currentYear;
