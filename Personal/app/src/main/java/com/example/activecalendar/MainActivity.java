@@ -1,5 +1,6 @@
 package com.example.activecalendar;
 
+import android.content.Intent;
 import android.graphics.Color;
 import android.graphics.drawable.GradientDrawable;
 import android.os.Bundle;
@@ -24,7 +25,9 @@ import java.util.Locale;
 public class MainActivity extends AppCompatActivity {
     TextView txtV_monthName;
     GridLayout gridL_daysContainer;
-    Button btn_prevMonth, btn_nextMonth;
+    Button btn_prevMonth,
+            btn_nextMonth,
+            btn_addEvent;
 
     int yearToView = 2026;
     int monthToView = 5;
@@ -45,6 +48,7 @@ public class MainActivity extends AppCompatActivity {
         gridL_daysContainer = findViewById(R.id.gridL_daysContainer);
         btn_prevMonth = findViewById(R.id.btn_prevMonth);
         btn_nextMonth = findViewById(R.id.btn_nextMonth);
+        btn_addEvent = findViewById(R.id.btn_addEvent);
 
 
         Calendar calendar = Calendar.getInstance();
@@ -79,6 +83,14 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 monthToView += 1;
                 setCalendarDisplay(monthToView, yearToView);
+            }
+        });
+
+        btn_addEvent.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this, AddActivity.class);
+                startActivity(intent);
             }
         });
 
