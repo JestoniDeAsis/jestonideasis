@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ActiveCalendar">
         <activity
+            android:name=".ManageActsActivity"
+            android:exported="false" />
+        <activity
             android:name=".AddActivity"
             android:exported="false" />
         <activity
