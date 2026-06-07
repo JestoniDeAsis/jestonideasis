@@ -29,6 +29,7 @@ public class AddActivity extends AppCompatActivity {
     TextInputLayout textInputLayout_activityName;
     TextInputEditText editText_activityName;
     Button btn_chooseActivity;
+    View view_activityColor;
 //    Spinner spinner_activities;
 
     @Override
@@ -45,6 +46,7 @@ public class AddActivity extends AppCompatActivity {
         textInputLayout_activityName = findViewById(R.id.textInputLayout_activityName);
         editText_activityName = findViewById(R.id.editText_activityName);
         btn_chooseActivity = findViewById(R.id.btn_chooseActivity);
+        view_activityColor = findViewById(R.id.view_activityColor);
 //        spinner_activities = findViewById(R.id.spinner_activities);
 
         String[] sampleActivities = {
@@ -75,6 +77,7 @@ public class AddActivity extends AppCompatActivity {
 
             RadioButton othersRadioButton = new RadioButton(this);
             othersRadioButton.setText("Others");
+            othersRadioButton.setTextSize(15);
 
             if (btn_chooseActivity.getText().toString().equals("Others")) {
                 othersRadioButton.setChecked(true);
@@ -105,6 +108,7 @@ public class AddActivity extends AppCompatActivity {
 
                 // Radio Button
                 RadioButton radioButton = new RadioButton(this);
+                radioButton.setTag(color);
 
                 LinearLayout.LayoutParams radioParams =
                         new LinearLayout.LayoutParams(
@@ -115,6 +119,8 @@ public class AddActivity extends AppCompatActivity {
 
                 radioButton.setLayoutParams(radioParams);
                 radioButton.setText(activity);
+                radioButton.setTextSize(15);
+                radioButton.setTag(color);
 
                 if (btn_chooseActivity.getText().toString().equals(activity)) {
                     radioButton.setChecked(true);
@@ -131,25 +137,27 @@ public class AddActivity extends AppCompatActivity {
                     radioButton.setChecked(true);
                 });
 
-                // Color Circle
-                View colorCircle = new View(this);
+                // Color Display
+                View colorSquare = new View(this);
 
                 LinearLayout.LayoutParams colorParams =
-                        new LinearLayout.LayoutParams(40, 40);
+                        new LinearLayout.LayoutParams(60, 60);
+                colorParams.setMarginEnd(50);
 
-                colorCircle.setLayoutParams(colorParams);
+                colorSquare.setLayoutParams(colorParams);
 
                 GradientDrawable drawable = new GradientDrawable();
-                drawable.setShape(GradientDrawable.OVAL);
+                drawable.setShape(GradientDrawable.RECTANGLE);
+
+                drawable.setCornerRadius(12f);
+
                 drawable.setColor(color);
 
-                colorCircle.setBackground(drawable);
+                colorSquare.setBackground(drawable);
 
-                // Add to row
                 activityContainer.addView(radioButton);
-                activityContainer.addView(colorCircle);
+                activityContainer.addView(colorSquare);
 
-                // Add row to layout
                 layoutActivities.addView(activityContainer);
             }
 
@@ -158,7 +166,29 @@ public class AddActivity extends AppCompatActivity {
 
                         for (RadioButton rb : radioButtons) {
                             if (rb.isChecked()) {
-                                btn_chooseActivity.setText(rb.getText().toString());
+
+                                String selectedActivity = rb.getText().toString();
+                                btn_chooseActivity.setText(selectedActivity);
+
+                                int selectedColor;
+
+                                if (selectedActivity.equals("Others")) {
+                                    selectedColor = Color.BLACK;
+
+                                    editText_activityName.setText("");
+                                    textInputLayout_activityName.setEnabled(true);
+                                } else {
+                                    selectedColor = (int) rb.getTag();
+
+                                    editText_activityName.setText(selectedActivity);
+                                    textInputLayout_activityName.setEnabled(false);
+                                }
+
+                                GradientDrawable bg =
+                                        (GradientDrawable) view_activityColor.getBackground();
+
+                                bg.setColor(selectedColor);
+
                                 break;
                             }
                         }
@@ -173,26 +203,5 @@ public class AddActivity extends AppCompatActivity {
                     })
                     .show();
         });
-
-//        spinner_activities.setAdapter(adapter);
-//
-//        spinner_activities.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
-//            @Override
-//            public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
-//                if (spinner_activities.getSelectedItemId() == 0) {
-//                    textInputLayout_activityName.setEnabled(true);
-//                    editText_activityName.setText("");
-//                }
-//                else {
-//                    textInputLayout_activityName.setEnabled(false);
-//                    editText_activityName.setText(spinner_activities.getSelectedItem().toString());
-//                }
-//            }
-//
-//            @Override
-//            public void onNothingSelected(AdapterView<?> parent) {
-//
-//            }
-//        });
     }
 }

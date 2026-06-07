@@ -39,11 +39,6 @@
                         android:inputType="text"/>
                 </com.google.android.material.textfield.TextInputLayout>
 
-<!--                <Spinner-->
-<!--                    android:id="@+id/spinner_activities"-->
-<!--                    android:layout_width="wrap_content"-->
-<!--                    android:layout_height="match_parent"/>-->
-
                 <Button
                     android:id="@+id/btn_chooseActivity"
                     android:layout_width="100dp"
@@ -57,17 +52,13 @@
                     android:minHeight="0dp"
                     android:layout_marginRight="10dp"/>
 
-                <Button
-                    android:id="@+id/btn_addActivityOption"
+                <View
+                    android:id="@+id/view_activityColor"
                     android:layout_width="40dp"
                     android:layout_height="40dp"
-                    android:background="@drawable/default_button"
-                    android:text="+"
-                    android:textSize="15sp"
-                    android:gravity="center"
-                    android:padding="0dp"
-                    android:minWidth="0dp"
-                    android:minHeight="0dp"/>
+                    android:layout_gravity="center"
+                    android:layout_marginTop="3dp"
+                    android:background="@drawable/color_square"/>
 
             </LinearLayout>
 
