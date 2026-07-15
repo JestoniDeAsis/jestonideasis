@@ -5,6 +5,7 @@ import android.graphics.drawable.GradientDrawable;
 import android.os.Bundle;
 import android.view.Gravity;
 import android.view.View;
+import android.widget.Button;
 import android.widget.LinearLayout;
 import android.widget.RadioButton;
 
@@ -17,6 +18,7 @@ import androidx.core.view.WindowInsetsCompat;
 import java.util.ArrayList;
 
 public class ManageActsActivity extends AppCompatActivity {
+    Button btn_addActivityOption;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -28,6 +30,8 @@ public class ManageActsActivity extends AppCompatActivity {
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom);
             return insets;
         });
+
+        btn_addActivityOption = findViewById(R.id.btn_addActivityOption);
 
         String[] sampleActivities = {
                 "Easy run",
@@ -114,5 +118,13 @@ public class ManageActsActivity extends AppCompatActivity {
         spacer.setVisibility(View.INVISIBLE);
 
         layoutActivities.addView(spacer);
+
+
+        btn_addActivityOption.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+
+            }
+        });
     }
 }

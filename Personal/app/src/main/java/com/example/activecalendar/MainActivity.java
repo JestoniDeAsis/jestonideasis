@@ -17,6 +17,14 @@ import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
+import org.json.JSONArray;
+import org.json.JSONObject;
+
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Locale;
@@ -43,6 +51,13 @@ public class MainActivity extends AppCompatActivity {
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom);
             return insets;
         });
+
+        createDefaultData();
+//        File file = new File(getFilesDir(), "activities.json");
+//
+//        if (!file.exists()) {
+//            createDefaultActivities();
+//        }
 
         txtV_monthName = findViewById(R.id.txtV_monthName);
         gridL_daysContainer = findViewById(R.id.gridL_daysContainer);
@@ -95,6 +110,106 @@ public class MainActivity extends AppCompatActivity {
         });
 
         }
+
+//    private void createActivitiesJsonIfNeeded() {
+//        File file = new File(getFilesDir(), "activities.json");
+//
+//        if (!file.exists()) {
+//            try {
+//                FileWriter writer = new FileWriter(file);
+//                writer.write(new JSONArray().toString()); // Writes []
+//                writer.flush();
+//                writer.close();
+//
+//                System.out.println("Created: " + file.getAbsolutePath());
+//
+//            } catch (IOException e) {
+//                e.printStackTrace();
+//            }
+//        } else {
+//            System.out.println("Already exists: " + file.getAbsolutePath());
+//        }
+//    }
+
+    private void createDefaultData() {
+        try {
+
+            // Root object
+            JSONObject root = new JSONObject();
+
+            // ======================
+            // Activities
+            // ======================
+            JSONArray activities = new JSONArray();
+
+            JSONObject obj;
+
+            obj = new JSONObject();
+            obj.put("id", 1);
+            obj.put("name", "Easy run");
+            obj.put("color", "#FF0000");
+            activities.put(obj);
+
+            obj = new JSONObject();
+            obj.put("id", 2);
+            obj.put("name", "Tempo run");
+            obj.put("color", "#0000FF");
+            activities.put(obj);
+
+            obj = new JSONObject();
+            obj.put("id", 3);
+            obj.put("name", "Long run");
+            obj.put("color", "#FFFF00");
+            activities.put(obj);
+
+            root.put("activities", activities);
+
+            // ======================
+            // Events
+            // ======================
+            JSONArray events = new JSONArray();
+
+            obj = new JSONObject();
+            obj.put("year", 2026);
+            obj.put("month", 7);
+            obj.put("day", 15);
+            obj.put("activityId", 1);
+            events.put(obj);
+
+            obj = new JSONObject();
+            obj.put("year", 2026);
+            obj.put("month", 7);
+            obj.put("day", 16);
+            obj.put("activityId", 2);
+            events.put(obj);
+
+            obj = new JSONObject();
+            obj.put("year", 2026);
+            obj.put("month", 7);
+            obj.put("day", 20);
+            obj.put("activityId", 3);
+            events.put(obj);
+
+            root.put("events", events);
+
+//            // ======================
+//            // Settings (optional)
+//            // ======================
+//            JSONObject settings = new JSONObject();
+//            settings.put("firstDayOfWeek", "MONDAY");
+//            settings.put("theme", "light");
+//
+//            root.put("settings", settings);
+
+            // Save file
+            FileOutputStream fos = openFileOutput("data.json", MODE_PRIVATE);
+            fos.write(root.toString(4).getBytes());
+            fos.close();
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
 
     void setCalendarDisplay(int month, int year) {
 
