@@ -111,26 +111,6 @@ public class MainActivity extends AppCompatActivity {
 
         }
 
-//    private void createActivitiesJsonIfNeeded() {
-//        File file = new File(getFilesDir(), "activities.json");
-//
-//        if (!file.exists()) {
-//            try {
-//                FileWriter writer = new FileWriter(file);
-//                writer.write(new JSONArray().toString()); // Writes []
-//                writer.flush();
-//                writer.close();
-//
-//                System.out.println("Created: " + file.getAbsolutePath());
-//
-//            } catch (IOException e) {
-//                e.printStackTrace();
-//            }
-//        } else {
-//            System.out.println("Already exists: " + file.getAbsolutePath());
-//        }
-//    }
-
     private void createDefaultData() {
         try {
 
@@ -171,6 +151,13 @@ public class MainActivity extends AppCompatActivity {
 
             obj = new JSONObject();
             obj.put("year", 2026);
+            obj.put("month", 6);
+            obj.put("day", 29);
+            obj.put("activityId", 3);
+            events.put(obj);
+
+            obj = new JSONObject();
+            obj.put("year", 2026);
             obj.put("month", 7);
             obj.put("day", 15);
             obj.put("activityId", 1);
@@ -179,15 +166,22 @@ public class MainActivity extends AppCompatActivity {
             obj = new JSONObject();
             obj.put("year", 2026);
             obj.put("month", 7);
-            obj.put("day", 16);
+            obj.put("day", 20);
+            obj.put("activityId", 3);
+            events.put(obj);
+
+            obj = new JSONObject();
+            obj.put("year", 2026);
+            obj.put("month", 8);
+            obj.put("day", 1);
             obj.put("activityId", 2);
             events.put(obj);
 
             obj = new JSONObject();
             obj.put("year", 2026);
-            obj.put("month", 7);
-            obj.put("day", 20);
-            obj.put("activityId", 3);
+            obj.put("month", 8);
+            obj.put("day", 1);
+            obj.put("activityId", 1);
             events.put(obj);
 
             root.put("events", events);
@@ -211,7 +205,108 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
+    private void addEventsToDay(
+            LinearLayout dayContainer,
+            JSONArray activities,
+            JSONArray events,
+            int year,
+            int month,
+            int day) {
+
+        try {
+
+            for (int j = 0; j < events.length(); j++) {
+
+                JSONObject event = events.getJSONObject(j);
+
+                if (event.getInt("year") == year &&
+                        event.getInt("month") == month &&
+                        event.getInt("day") == day) {
+
+                    int activityId = event.getInt("activityId");
+
+                    for (int k = 0; k < activities.length(); k++) {
+
+                        JSONObject activity = activities.getJSONObject(k);
+
+                        if (activity.getInt("id") == activityId) {
+
+                            TextView activityText = new TextView(this);
+
+                            activityText.setText(activity.getString("name"));
+                            activityText.setTextSize(10);
+                            activityText.setPadding(8, 2, 8, 2);
+                            activityText.setGravity(Gravity.CENTER);
+
+                            activityText.setSingleLine(true);
+                            activityText.setMaxLines(1);
+                            activityText.setEllipsize(null);
+
+                            int activityColor = Color.parseColor(activity.getString("color"));
+
+                            double luminance =
+                                    (0.299 * Color.red(activityColor)) +
+                                            (0.587 * Color.green(activityColor)) +
+                                            (0.114 * Color.blue(activityColor));
+
+                            activityText.setTextColor(
+                                    luminance > 186 ? Color.BLACK : Color.WHITE
+                            );
+
+                            GradientDrawable bg = new GradientDrawable();
+                            bg.setColor(activityColor);
+                            bg.setCornerRadius(10);
+
+                            activityText.setBackground(bg);
+
+                            LinearLayout.LayoutParams params = new LinearLayout.LayoutParams(
+                                    LinearLayout.LayoutParams.MATCH_PARENT,
+                                    LinearLayout.LayoutParams.WRAP_CONTENT
+                            );
+
+                            params.topMargin = 4;
+                            params.leftMargin = 2;
+                            params.rightMargin = 2;
+
+                            activityText.setLayoutParams(params);
+
+                            dayContainer.addView(activityText);
+
+                            break;
+                        }
+                    }
+                }
+            }
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+
     void setCalendarDisplay(int month, int year) {
+        JSONArray activities = new JSONArray();
+        JSONArray events = new JSONArray();
+
+        try {
+            FileInputStream fis = openFileInput("data.json");
+
+            StringBuilder builder = new StringBuilder();
+            int ch;
+
+            while ((ch = fis.read()) != -1) {
+                builder.append((char) ch);
+            }
+
+            fis.close();
+
+            JSONObject root = new JSONObject(builder.toString());
+
+            activities = root.getJSONArray("activities");
+            events = root.getJSONArray("events");
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
 
         gridL_daysContainer.removeAllViews();
 
@@ -235,6 +330,8 @@ public class MainActivity extends AppCompatActivity {
 
         Calendar previousMonth = (Calendar) calendar.clone();
         previousMonth.add(Calendar.MONTH, -1);
+        Calendar nextMonth = (Calendar) calendar.clone();
+        nextMonth.add(Calendar.MONTH, 1);
 
         int daysInPreviousMonth =
                 previousMonth.getActualMaximum(Calendar.DAY_OF_MONTH);
@@ -266,7 +363,15 @@ public class MainActivity extends AppCompatActivity {
             dayText.setAlpha(0.6f);
 
             dayContainer.addView(dayText);
-
+            dayContainer.setOrientation(LinearLayout.VERTICAL);
+            addEventsToDay(
+                    dayContainer,
+                    activities,
+                    events,
+                    previousMonth.get(Calendar.YEAR),
+                    previousMonth.get(Calendar.MONTH) + 1,
+                    day
+            );
 
             GridLayout.LayoutParams dayContainerParams = new GridLayout.LayoutParams();
 
@@ -310,7 +415,15 @@ public class MainActivity extends AppCompatActivity {
             }
 
             dayContainer.addView(dayText);
-
+            dayContainer.setOrientation(LinearLayout.VERTICAL);
+            addEventsToDay(
+                    dayContainer,
+                    activities,
+                    events,
+                    year,
+                    month + 1,
+                    day
+            );
 
             GridLayout.LayoutParams dayContainerParams = new GridLayout.LayoutParams();
 
@@ -344,7 +457,15 @@ public class MainActivity extends AppCompatActivity {
             dayText.setAlpha(0.6f);
 
             dayContainer.addView(dayText);
-
+            dayContainer.setOrientation(LinearLayout.VERTICAL);
+            addEventsToDay(
+                    dayContainer,
+                    activities,
+                    events,
+                    nextMonth.get(Calendar.YEAR),
+                    nextMonth.get(Calendar.MONTH) + 1,
+                    day
+            );
 
             GridLayout.LayoutParams dayContainerParams = new GridLayout.LayoutParams();
 

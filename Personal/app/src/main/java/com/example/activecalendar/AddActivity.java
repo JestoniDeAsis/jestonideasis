@@ -189,7 +189,6 @@ public class AddActivity extends AppCompatActivity {
             }
 
             builder.setView(dialogView).setPositiveButton("Select", (dialog, which) -> {
-
                 for (RadioButton rb : radioButtons) {
                     if (rb.isChecked()) {
 
@@ -202,16 +201,22 @@ public class AddActivity extends AppCompatActivity {
                             selectedColor = Color.TRANSPARENT;
 
                             btn_chooseActivity.setText("Others");
+
                             editText_activityName.setText("");
-                            textInputLayout_activityName.setEnabled(true);
+                            editText_activityName.setFocusable(true);
+                            editText_activityName.setFocusableInTouchMode(true);
+                            editText_activityName.setClickable(true);
+                            editText_activityName.setCursorVisible(true);
                         } else {
                             selectedColor = (int) rb.getTag();
 
                             editText_activityName.setText(selectedActivity);
-                            textInputLayout_activityName.setEnabled(false);
+                            editText_activityName.setFocusable(false);
+                            editText_activityName.setFocusableInTouchMode(false);
+                            editText_activityName.setClickable(false);
+                            editText_activityName.setCursorVisible(false);
                         }
-                        GradientDrawable bg =
-                                (GradientDrawable) view_activityColor.getBackground();
+                        GradientDrawable bg = (GradientDrawable) view_activityColor.getBackground();
 
                         bg.setColor(selectedColor);
 
